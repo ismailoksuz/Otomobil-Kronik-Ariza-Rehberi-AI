@@ -48,7 +48,7 @@ Projeyi yerel makinenizde hızla ayağa kaldırmak için aşağıdaki adımları
 
 ```bash
 git clone [https://github.com/ismailoksuz/Otomobil-Kronik-Ariza-Rehberi-AI.git](https://github.com/ismailoksuz/Otomobil-Kronik-Ariza-Rehberi-AI.git)
-cd Otomobil-Kronik-Ariza-Rehberi-AI ```
+cd Otomobil-Kronik-Ariza-Rehberi-AI
 
  
 ### 2. Sanal Ortam Kurulumu ve Bağımlılıklar
