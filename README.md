@@ -46,7 +46,9 @@ git clone [https://github.com/ismailoksuz/Otomobil-Kronik-Ariza-Rehberi-AI.git](
 cd Otomobil-Kronik-Ariza-Rehberi-AI
 
 python3 -m venv venv
+
 source venv/bin/activate
+
 pip install -r requirements.txt
 
 python app.py
