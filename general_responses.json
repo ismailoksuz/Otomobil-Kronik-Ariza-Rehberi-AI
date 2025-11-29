@@ -1,0 +1,38 @@
+[
+    {
+        "TEXT_MATCH": ["lastik patla", "teker patla", "lastik inmiş", "tekerlek inik", "lastiğim patladı"],
+        "RESPONSE": "Önce güvenliği sağla, ardından ya stepne tak ya da yol yardım çağır. Lastiği inik vaziyette kullanmayın."
+    },
+    {
+        "TEXT_MATCH": ["yakıt bitti", "benzin bitti", "mazot bitti", "gaz bitti", "depo boş"],
+        "RESPONSE": "En yakın istasyona ulaşmak için yakıt takviyesi yapın veya yol yardım çağırın. Hava yapmaması için depoya hemen yakıt ekleyin."
+    },
+    {
+        "TEXT_MATCH": ["hararet yükseldi", "hararet yaptı", "su kaynat", "motor çok sıcak"],
+        "RESPONSE": "Aracı güvenli bir şekilde durdurun ve motoru hemen kapatın. Kaputu açmayın! Soğumasını bekledikten sonra soğutma sıvısını (antifriz) kontrol edin."
+    },
+    {
+        "TEXT_MATCH": ["yağ lambası yandı", "akü lambası yandı", "check engine yandı", "motor arıza lambası yandı"],
+        "RESPONSE": "Önemli: Motor Yağı veya Akü lambası yanıyorsa sürüşe **devam etmeyin**! Hemen güvenli bir yere çekip motoru kapatın ve bir servisi arayın."
+    },
+    {
+        "TEXT_MATCH": ["araba çekmiyor", "güç kaybetti", "hızlanmıyor", "tekliyor", "silkeliyor"],
+        "RESPONSE": "Aracı güvenli bir yere çekip stop edin ve 1-2 dakika bekledikten sonra tekrar çalıştırın. Sorun devam ederse yetkili servise başvurun."
+    },
+    {
+        "TEXT_MATCH": ["kaza yaptım", "arabayı vurdum", "çarpışma oldu", "hasar oluştu"],
+        "RESPONSE": "Öncelikle can güvenliğinizi sağlayın. Kaza tutanağı doldurun ve hasarın büyüklüğüne göre polis veya yol yardım çağırın."
+    },
+    {
+        "TEXT_MATCH": ["fren ses", "fren gıcırdama", "fren ötüyor", "balata ses yapıyor"],
+        "RESPONSE": "Frenlerde normal olmayan bir ses varsa aracı hemen servise götürün. Fren sistemi sorunları hayati tehlike oluşturur."
+    },
+    {
+        "TEXT_MATCH": ["marş basmıyor", "çalışmıyor", "akü bitti", "kontak almıyor"],
+        "RESPONSE": "Akü bağlantılarını kontrol edin. Akü zayıfsa takviye ile çalıştırmayı deneyin. Sorun devam ederse akü veya marş motoru kontrolü için servise başvurun."
+    },
+    {
+        "TEXT_MATCH": ["yanık kokusu", "lastik kokusu", "debriyaj kokusu", "koku geliyor"],
+        "RESPONSE": "Aracı hemen güvenli bir yerde durdurun. Yanık kokusu elektrik kaçağı veya aşırı ısınma belirtisi olabilir. Kaputu açmadan servise başvurun."
+    }
+]

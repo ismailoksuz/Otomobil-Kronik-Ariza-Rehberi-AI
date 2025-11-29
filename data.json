@@ -1,0 +1,5873 @@
+[
+  {
+      "marka": "BYD",
+      "model": "Atto 3",
+      "kasa_tipi": "SUV",
+      "motor": "60.5 kWh Blade Batarya (204 HP)",
+      "paket": "Comfort / Design",
+      "yil_araligi": "2024-2025",
+      "sorunlar": [
+          {
+              "sorun": "12V akü aşırı boşalma → araç kilitleniyor, kapılar açılmıyor",
+              "kronik_mi": true,
+              "etkilenme_orani": "%65 (global)",
+              "cozum": "12V akü değişimi + yazılım güncellemesi (Türkiye’de garanti ücretsiz). 2025 üretimlerde revize BMS.",
+              "maliyet": "Ücretsiz (garanti) / 8.000-12.000 TL"
+          },
+          {
+              "sorun": "DMS (sürücü izleme kamerası) hata verip aracı 10 km/h sınırlıyor",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Kamera kalibrasyonu veya değişimi + yazılım (serviste 1 gün).",
+              "maliyet": "Ücretsiz-15.000 TL"
+          },
+          {
+              "sorun": "Hızlı şarjda %80 sonrası kesinti (ICCÜ aşırı ısınma)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%45",
+              "cozum": "Yazılım güncellemesi + soğutma fanı kontrolü.",
+              "maliyet": "Ücretsiz"
+          },
+          {
+              "sorun": "Lastik basınç sensörü sürekli hata (TPMS)",
+              "kronik_mi": false,
+              "etkilenme_orani": "%35",
+              "cozum": "Sensör değişimi.",
+              "maliyet": "3.000-6.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "BYD",
+      "model": "Seal",
+      "kasa_tipi": "Sedan",
+      "motor": "82.5 kWh Blade Batarya (313 HP / 530 HP AWD)",
+      "paket": "Design / Excellence",
+      "yil_araligi": "2024-2025",
+      "sorunlar": [
+          {
+              "sorun": "12V akü boşalma + araç kilitlenme",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Akü değişimi + 2025.03 yazılımı.",
+              "maliyet": "Ücretsiz"
+          },
+          {
+              "sorun": "Hızlı şarjda 120 kW üstü kesinti (termal yönetim)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Batarya soğutma yazılım güncellemesi.",
+              "maliyet": "Ücretsiz"
+          },
+          {
+              "sorun": "Ön radar + ACC ani frenleme (hayalet fren)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%40",
+              "cozum": "Radar kalibrasyonu + yazılım.",
+              "maliyet": "Ücretsiz-10.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "BYD",
+      "model": "Dolphin",
+      "kasa_tipi": "Hatchback",
+      "motor": "44.9 / 60.5 kWh Blade",
+      "paket": "Comfort / Design",
+      "yil_araligi": "2025",
+      "sorunlar": [
+          {
+              "sorun": "12V akü + kilitlenme sorunu (Atto 3 ile aynı)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Akü + yazılım.",
+              "maliyet": "Ücretsiz"
+          },
+          {
+              "sorun": "Isı pompası verimsizliği (kışın menzil %35-40 düşüş)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55 (kış kullananlarda)",
+              "cozum": "2025.06 yazılımı ile %15 iyileşme.",
+              "maliyet": "Ücretsiz"
+          }
+      ]
+  },
+  {
+      "marka": "BYD",
+      "model": "Seal U",
+      "kasa_tipi": "SUV (DM-i hibrit)",
+      "motor": "1.5T + elektrik (plug-in hibrit)",
+      "paket": "Comfort / Design",
+      "yil_araligi": "2025",
+      "sorunlar": [
+          {
+              "sorun": "1.5T benzinli motor yüksek yağ eksiltme (1000 km’de 0.4-0.6 lt)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50 (Çin verisi)",
+              "cozum": "Segman + conta revizyonu (garanti kapsamında).",
+              "maliyet": "Ücretsiz-35.000 TL"
+          },
+          {
+              "sorun": "DM-i sistem geçiş sarsıntısı (EV→HEV)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%45",
+              "cozum": "Yazılım güncellemesi.",
+              "maliyet": "Ücretsiz"
+          }
+      ]
+  },
+  {
+      "marka": "BYD",
+      "model": "Han",
+      "kasa_tipi": "Sedan",
+      "motor": "85.4 kWh Blade (517 HP AWD)",
+      "paket": "Premium",
+      "yil_araligi": "2024-2025",
+      "sorunlar": [
+          {
+              "sorun": "12V akü + kilitlenme",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Akü değişimi + yazılım.",
+              "maliyet": "Ücretsiz"
+          },
+          {
+              "sorun": "Brembo fren balata erken aşınma (spor kullanımda 15-20 bin km)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Balata seti.",
+              "maliyet": "18.000-25.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Citroen",
+      "model": "C3",
+      "kasa_tipi": "Hatchback",
+      "motor": "1.2 PureTech (83/110 HP)",
+      "paket": "Feel / Shine",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Triger kayışı erken aşınma / yağ sızıntısı (yağ içinde çalışan tasarım)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%70",
+              "cozum": "Triger seti + yağ pompası değişimi (Stellantis geri çağırma JZR/HFC). 2022+ revize kayış, garanti ücretsiz. 0W-30 yağ kullan.",
+              "maliyet": "20.000-35.000 TL (garanti dışı)"
+          },
+          {
+              "sorun": "Motor arıza lambası / tekleme (soğuk çalıştırma)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Bobin + enjektör temizliği, ECU güncellemesi.",
+              "maliyet": "5.000-12.000 TL"
+          },
+          {
+              "sorun": "Ekran donması / kapanma (sıcak havalarda)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Yazılım OTA reset (ücretsiz serviste).",
+              "maliyet": "Ücretsiz-4.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Citroen",
+      "model": "C3",
+      "kasa_tipi": "Hatchback",
+      "motor": "1.5 BlueHDi (100 HP)",
+      "paket": "Tüm paketler",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "AdBlue sensörü / depo arızası (850 km sonra uyarı)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Depo + sensör değişimi (iyi niyet indirimi). Düzenli dolum önler.",
+              "maliyet": "12.000-20.000 TL"
+          },
+          {
+              "sorun": "DPF tıkanması / EGR valfi karbon birikimi",
+              "kronik_mi": true,
+              "etkilenme_orani": "%45",
+              "cozum": "Temizlik + valf revizyonu, her 50 bin km rutin.",
+              "maliyet": "4.000-10.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Citroen",
+      "model": "C3 Aircross",
+      "kasa_tipi": "SUV",
+      "motor": "1.2 PureTech (110/130 HP)",
+      "paket": "Feel / Shine",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Triger kayışı döküntüsü / motor yağı basıncı uyarısı (yokuşta güç kaybı)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%65",
+              "cozum": "Tam set değişimi (geri çağırma). 2021+ revize, radyatör hava akışı kontrolü.",
+              "maliyet": "25.000-40.000 TL"
+          },
+          {
+              "sorun": "Süspansiyon gıcırtı / arka cam fitili deformasyonu",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Burç + fitil değişimi.",
+              "maliyet": "3.000-7.000 TL"
+          },
+          {
+              "sorun": "Lastik basınç sensörü hatası (sürekli uyarı)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%40",
+              "cozum": "Sensör kalibrasyonu + değişim.",
+              "maliyet": "2.000-5.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Citroen",
+      "model": "C3 Aircross",
+      "kasa_tipi": "SUV",
+      "motor": "1.5 BlueHDi (120 HP)",
+      "paket": "Tüm paketler",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "AdBlue sistemi / motor lambası (rejenerasyon hatası)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Depo değişimi + sensör iptali (yasal değilse revizyon).",
+              "maliyet": "15.000-25.000 TL"
+          },
+          {
+              "sorun": "EAT6 şanzıman gecikme / sarsıntı",
+              "kronik_mi": true,
+              "etkilenme_orani": "%45",
+              "cozum": "Yazılım güncellemesi + yağ.",
+              "maliyet": "8.000-15.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Citroen",
+      "model": "C4",
+      "kasa_tipi": "Hatchback / Sedan",
+      "motor": "1.2 PureTech (100/130 HP)",
+      "paket": "Feel / Shine",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Triger kayışı / motor revizyonu (yağ sızıntısı)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%65",
+              "cozum": "Kayış + süzgeç değişimi (geri çağırma). 2023+ revize motor.",
+              "maliyet": "25.000-40.000 TL"
+          },
+          {
+              "sorun": "Fren sarsıntı / titreme (80+ km/s)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Disk + balata değişimi, yol testi sonrası.",
+              "maliyet": "6.000-12.000 TL"
+          },
+          {
+              "sorun": "Ekran kararma / iç ışık donması (gece sürüşte)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Yazılım v3.0 güncellemesi.",
+              "maliyet": "Ücretsiz-5.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Citroen",
+      "model": "C4",
+      "kasa_tipi": "Hatchback / Sedan",
+      "motor": "1.5 BlueHDi (130 HP)",
+      "paket": "Tüm paketler",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "AdBlue / urea arızası (yolda motor kesme)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Tank + sensör değişimi, bidon dolumu geçici.",
+              "maliyet": "10.000-18.000 TL"
+          },
+          {
+              "sorun": "Sigorta kutusu su alma / beyin arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%45",
+              "cozum": "Kutu değişimi (Fransa ithal, 45 gün bekleme).",
+              "maliyet": "8.000-15.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Citroen",
+      "model": "C5 Aircross",
+      "kasa_tipi": "SUV",
+      "motor": "1.2 PureTech (130 HP)",
+      "paket": "Feel / Shine",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Tavan boya atması / paslanma (üretim kusuru)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Boya revizyonu (teknik bültenle indirimli, garanti ücretsiz).",
+              "maliyet": "10.000-20.000 TL"
+          },
+          {
+              "sorun": "Kam mili zinciri / motor arızası (geri çağırma)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Zincir değişimi (servis randevusu 1-2 ay).",
+              "maliyet": "15.000-25.000 TL"
+          },
+          {
+              "sorun": "Direksiyon titreme (105-125 km/h)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%45",
+              "cozum": "Kutu + balans ayarı.",
+              "maliyet": "7.000-14.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Citroen",
+      "model": "C5 Aircross",
+      "kasa_tipi": "SUV",
+      "motor": "1.5 BlueHDi (130 HP)",
+      "paket": "GT / GT Line",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "AdBlue depo deformasyonu / sensör hatası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Depo değişimi (iyi niyetle).",
+              "maliyet": "12.000-22.000 TL"
+          },
+          {
+              "sorun": "EAT8 şanzıman vuruntu / gecikme",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Yazılım + mekatronik revizyonu.",
+              "maliyet": "18.000-30.000 TL"
+          },
+          {
+              "sorun": "Sunroof su sızdırma / tavan fitili",
+              "kronik_mi": true,
+              "etkilenme_orani": "%40",
+              "cozum": "Fitil + conta değişimi.",
+              "maliyet": "5.000-10.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Citroen",
+      "model": "C5",
+      "kasa_tipi": "Sedan / SW",
+      "motor": "1.2 PureTech / 1.5 BlueHDi",
+      "paket": "Tüm paketler",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Triger / yağ basıncı arızası (PureTech)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%65",
+              "cozum": "Set değişimi (geri çağırma).",
+              "maliyet": "20.000-35.000 TL"
+          },
+          {
+              "sorun": "AdBlue / urea motor kesme (BlueHDi)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Sensör + tank revizyonu.",
+              "maliyet": "10.000-18.000 TL"
+          },
+          {
+              "sorun": "Güneş/yansıtma kör edici ön cam (genel)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%40",
+              "cozum": "Cam folyo veya değişim (servis dışı).",
+              "maliyet": "3.000-8.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Citroen",
+      "model": "Jumper",
+      "kasa_tipi": "Minibüs / Panelvan",
+      "motor": "2.2 BlueHDi (140 HP)",
+      "paket": "Tüm paketler",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Debriyaj sertleşme / şanzıman sesi (yük altında)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Debriyaj seti + senkromeç değişimi.",
+              "maliyet": "15.000-25.000 TL"
+          },
+          {
+              "sorun": "Yakıt pompası yağ sızıntısı / motor arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Pompa + conta revizyonu.",
+              "maliyet": "10.000-20.000 TL"
+          },
+          {
+              "sorun": "Klima arızası / geri görüş kamerası çalışmama",
+              "kronik_mi": true,
+              "etkilenme_orani": "%45",
+              "cozum": "Kompresör + kamera modülü değişimi.",
+              "maliyet": "8.000-15.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Citroen",
+      "model": "Berlingo",
+      "kasa_tipi": "Combi / Cargo",
+      "motor": "1.5 BlueHDi (100/130 HP)",
+      "paket": "Tüm paketler",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Kaput paslanma / boya atması (iç kısım)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Boya + pas önleyici (servis bakımlıysa ücretsiz).",
+              "maliyet": "5.000-10.000 TL"
+          },
+          {
+              "sorun": "AdBlue depo / sensör hatası (ticari kullanım)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%45",
+              "cozum": "Depo değişimi.",
+              "maliyet": "12.000-20.000 TL"
+          },
+          {
+              "sorun": "Airbag açılmama (kaza sonrası)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%35",
+              "cozum": "Modül + sensör testi (Takata geri çağırma).",
+              "maliyet": "15.000-25.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Fiat",
+      "model": "Egea",
+      "kasa_tipi": "Sedan",
+      "motor": "1.4 Fire (95 HP)",
+      "paket": "Easy / Easy Plus / Urban / Urban Plus",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Yağ eksiltme / yakma (3000-5000 km'de 0.5-1 lt)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%65-75",
+              "cozum": "Piston segman + üst kapak contası değişimi. 2023 sonrası üretimlerde revize piston var, garanti ücretsiz.",
+              "maliyet": "15.000-24.000 TL (garanti dışı)"
+          },
+          {
+              "sorun": "Rüzgar sesi (ön kapı fitilleri 80+ km/s)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55-65",
+              "cozum": "Fitil değişimi + ekstra sünger bant izolasyonu. 2024 facelift’te çözüldü.",
+              "maliyet": "1.500-3.000 TL"
+          },
+          {
+              "sorun": "Debriyaj sertleşme / erken aşınma",
+              "kronik_mi": false,
+              "etkilenme_orani": "%35 (Easy paketlerde %45+)",
+              "cozum": "LUK veya SACHS debriyaj seti değişimi.",
+              "maliyet": "8.000-12.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Fiat",
+      "model": "Egea",
+      "kasa_tipi": "Sedan",
+      "motor": "1.4 Fire (95 HP)",
+      "paket": "Lounge / Lounge Plus",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Yağ eksiltme / yakma",
+              "kronik_mi": true,
+              "etkilenme_orani": "%70-75",
+              "cozum": "Piston segman + conta değişimi, garanti TSB ile ücretsiz.",
+              "maliyet": "19.000-27.000 TL"
+          },
+          {
+              "sorun": "Multimedya ekran donması / yeniden başlatma",
+              "kronik_mi": true,
+              "etkilenme_orani": "%45",
+              "cozum": "Yazılım güncellemesi (2024.5 sürümü ile tamamen çözüldü), serviste ücretsiz.",
+              "maliyet": "Ücretsiz"
+          },
+          {
+              "sorun": "Kör nokta uyarı sistemi arızası (Lounge Plus)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%40",
+              "cozum": "Ayna sensörü değişimi, 2024+ yeni nesil sensör.",
+              "maliyet": "12.000-18.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Fiat",
+      "model": "Egea",
+      "kasa_tipi": "Sedan",
+      "motor": "1.3 Multijet (95 HP)",
+      "paket": "Tüm paketler",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Enjektör arızası (özellikle 2. enjektör)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60-75",
+              "cozum": "4 enjektör komple Bosch değişimi önerilir. 2023+ Euro6.2 motorlarda %50 azaldı.",
+              "maliyet": "28.000-42.000 TL"
+          },
+          {
+              "sorun": "EGR valfi tıkanması",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Temizlik + valf değişimi, her 60.000 km’de bakım şart.",
+              "maliyet": "3.000-7.000 TL"
+          },
+          {
+              "sorun": "Soğukta titreme / beyaz duman",
+              "kronik_mi": false,
+              "etkilenme_orani": "%30",
+              "cozum": "Glow plug değişimi + enjektör temizliği.",
+              "maliyet": "2.000-5.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Fiat",
+      "model": "Egea",
+      "kasa_tipi": "Sedan",
+      "motor": "1.6 Multijet (130 HP)",
+      "paket": "Tüm paketler",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "EGR valfi tıkanması",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Temizlik + yazılım güncellemesi, düzenli bakım şart.",
+              "maliyet": "4.000-8.000 TL"
+          },
+          {
+              "sorun": "Krank keçesi yağ kaçağı",
+              "kronik_mi": true,
+              "etkilenme_orani": "%45",
+              "cozum": "Keçe değişimi + conta takımı.",
+              "maliyet": "6.000-9.000 TL"
+          },
+          {
+              "sorun": "DPF tıkanması (şehir içi kullanım)",
+              "kronik_mi": false,
+              "etkilenme_orani": "%35",
+              "cozum": "Forced regeneration + temizlik.",
+              "maliyet": "4.000-12.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Fiat",
+      "model": "Egea Cross",
+      "kasa_tipi": "Cross",
+      "motor": "1.4 Fire (95 HP)",
+      "paket": "Tüm paketler",
+      "yil_araligi": "2021-2025",
+      "sorunlar": [
+          {
+              "sorun": "Süspansiyon gıcırtı / ses (arka aks)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Burç + amortisör lastiği değişimi + gres uygulaması.",
+              "maliyet": "5.000-9.000 TL"
+          },
+          {
+              "sorun": "Yağ eksiltme (yüksek kasa etkisiyle artar)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Piston segman değişimi.",
+              "maliyet": "16.000-22.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Fiat",
+      "model": "Egea Cross",
+      "kasa_tipi": "Cross",
+      "motor": "1.3-1.6 Multijet",
+      "paket": "Tüm paketler",
+      "yil_araligi": "2021-2025",
+      "sorunlar": [
+          {
+              "sorun": "Süspansiyon sesi + EGR tıkanması",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55-65",
+              "cozum": "Burç değişimi + EGR temizliği.",
+              "maliyet": "6.000-12.000 TL"
+          },
+          {
+              "sorun": "Kör nokta / şerit takip arızası (Lounge paket)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%40",
+              "cozum": "Sensör değişimi.",
+              "maliyet": "12.000-18.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Fiat",
+      "model": "Egea",
+      "kasa_tipi": "Hatchback",
+      "motor": "1.4 Fire / 1.3-1.6 Multijet",
+      "paket": "Tüm paketler",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Yağ eksiltme (1.4) / Enjektör-EGR (dizel)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60-70",
+              "cozum": "Segman değişimi veya enjektör seti.",
+              "maliyet": "15.000-40.000 TL"
+          },
+          {
+              "sorun": "Bagaj fitili su sızdırma",
+              "kronik_mi": true,
+              "etkilenme_orani": "%45",
+              "cozum": "Fitil değişimi + silikon uygulaması.",
+              "maliyet": "2.000-4.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Fiat",
+      "model": "Tipo",
+      "kasa_tipi": "Hatchback / Sedan",
+      "motor": "1.4 Fire / 1.3-1.6 Multijet",
+      "paket": "Tüm paketler",
+      "yil_araligi": "2020-2024",
+      "sorunlar": [
+          {
+              "sorun": "Otomatik şanzıman vuruntu / geçişleri (Dualogic)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Şanzıman yağı + mekatronik tamir.",
+              "maliyet": "15.000-30.000 TL"
+          },
+          {
+              "sorun": "Fren pedalı sertleşme",
+              "kronik_mi": true,
+              "etkilenme_orani": "%40",
+              "cozum": "Fren merkezi + servo değişimi.",
+              "maliyet": "8.000-14.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Fiat",
+      "model": "500",
+      "kasa_tipi": "Hatch / Cabrio",
+      "motor": "0.9 TwinAir / 1.0 Mild Hybrid",
+      "paket": "Tüm paketler",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Akü boşalması (start-stop kaynaklı)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "AGM akü + BSG kontrolü.",
+              "maliyet": "6.000-10.000 TL"
+          },
+          {
+              "sorun": "Multimedya donması",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Yazılım güncellemesi.",
+              "maliyet": "Ücretsiz"
+          }
+      ]
+  },
+  {
+      "marka": "Fiat",
+      "model": "Doblo",
+      "kasa_tipi": "Combi / Cargo",
+      "motor": "1.3-1.6 Multijet",
+      "paket": "Tüm paketler",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Şanzıman kırma / dağılma (yük altında)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%65",
+              "cozum": "Tam revizyon + senkromeç değişimi.",
+              "maliyet": "18.000-32.000 TL"
+          },
+          {
+              "sorun": "AdBlue sensörü / arka cam patlama (Combi)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%45-50",
+              "cozum": "Sensör değişimi + cam izolasyon.",
+              "maliyet": "4.000-8.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Fiat",
+      "model": "Fiorino",
+      "kasa_tipi": "Cargo / Combi",
+      "motor": "1.4 Fire / 1.3 Multijet",
+      "paket": "Tüm paketler",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Debriyaj erken bitme",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "SACHS set değişimi (40-50 bin km’de biter).",
+              "maliyet": "7.000-11.000 TL"
+          },
+          {
+              "sorun": "Vites geçişlerinde takılma (soğukta)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Şanzıman yağı + ısınma.",
+              "maliyet": "1.500-3.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Fiat",
+      "model": "Ducato",
+      "kasa_tipi": "Minibüs / Panelvan",
+      "motor": "2.3 Multijet",
+      "paket": "Tüm paketler",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "EGR + turbo arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Temizlik + valf değişimi.",
+              "maliyet": "10.000-18.000 TL"
+          },
+          {
+              "sorun": "Elektrik tesisatı / akü boşalması",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Alternatör + kablo revizyonu.",
+              "maliyet": "8.000-15.000 TL"
+          },
+          {
+              "sorun": "Şanzıman yağ kaçağı (otomatik)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%45",
+              "cozum": "Conta + keçe değişimi.",
+              "maliyet": "7.000-12.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Hyundai",
+      "model": "i10",
+      "kasa_tipi": "Hatchback",
+      "motor": "1.0 MPI (67 HP) / 1.2 MPI (84 HP)",
+      "paket": "Jump / Style / Elite",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Debriyaj + baskı balata erken bitme (şehir içi)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "LUK set değişimi (30-40 bin km’de biter).",
+              "maliyet": "7.000-11.000 TL"
+          },
+          {
+              "sorun": "Vites geçişlerinde takılma (soğukta)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Şanzıman yağı + ısınma.",
+              "maliyet": "1.500-3.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Hyundai",
+      "model": "i20",
+      "kasa_tipi": "Hatchback",
+      "motor": "1.0 T-GDI (100/120 HP)",
+      "paket": "Jump / Style / Elite",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "7DCT şanzıman titreme / çift kavrama arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%65",
+              "cozum": "Kavrama seti + mekatronik revizyonu. 2023+ modellerde %40 azaldı.",
+              "maliyet": "22.000-38.000 TL"
+          },
+          {
+              "sorun": "Yağ eksiltme + triger zinciri gergi arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Zincir + gergi değişimi, düzenli 5W-30 yağ şart.",
+              "maliyet": "12.000-20.000 TL"
+          },
+          {
+              "sorun": "Multimedya ekran donması (8” ve 10.25”)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%45",
+              "cozum": "Yazılım güncellemesi (OTA ücretsiz).",
+              "maliyet": "Ücretsiz"
+          }
+      ]
+  },
+  {
+      "marka": "Hyundai",
+      "model": "i20",
+      "kasa_tipi": "Hatchback",
+      "motor": "1.4 MPI Otomatik (100 HP)",
+      "paket": "Tüm paketler",
+      "yil_araligi": "2020-2023",
+      "sorunlar": [
+          {
+              "sorun": "6 ileri otomatik şanzıman vuruntu / gecikme",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Şanzıman yağı + valf body revizyonu.",
+              "maliyet": "10.000-18.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Hyundai",
+      "model": "Bayon",
+      "kasa_tipi": "SUV",
+      "motor": "1.0 T-GDI (100 HP) DCT",
+      "paket": "Jump / Style / Elite",
+      "yil_araligi": "2021-2025",
+      "sorunlar": [
+          {
+              "sorun": "DCT şanzıman sarsıntı + kavrama aşınması",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Kavrama seti değişimi.",
+              "maliyet": "20.000-35.000 TL"
+          },
+          {
+              "sorun": "Yağ eksiltme (her 5-8 bin km’de 0.5 lt)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Segman + conta revizyonu.",
+              "maliyet": "15.000-25.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Hyundai",
+      "model": "Kona",
+      "kasa_tipi": "SUV",
+      "motor": "1.0 T-GDI (120 HP)",
+      "paket": "Tüm paketler",
+      "yil_araligi": "2020-2023",
+      "sorunlar": [
+          {
+              "sorun": "7DCT çift kavrama arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%65",
+              "cozum": "Tam kavrama seti + yazılım.",
+              "maliyet": "25.000-40.000 TL"
+          },
+          {
+              "sorun": "Zincir gergi + yağ eksiltme",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Gergi + zincir değişimi.",
+              "maliyet": "12.000-20.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Hyundai",
+      "model": "Tucson",
+      "kasa_tipi": "SUV",
+      "motor": "1.6 T-GDI (177 HP)",
+      "paket": "Elite / Elite Plus / N Line",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "7DCT şanzıman titreme / vites atma gecikmesi",
+              "kronik_mi": true,
+              "etkilenme_orani": "%70",
+              "cozum": "Kavrama + mekatronik revizyonu. 2023+ modellerde ıslak kavrama ile azaldı.",
+              "maliyet": "25.000-45.000 TL"
+          },
+          {
+              "sorun": "Yağ eksiltme + segman aşınması",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Motor üst kapak + segman değişimi.",
+              "maliyet": "18.000-32.000 TL"
+          },
+          {
+              "sorun": "Boya çok ince / taş izi + çizik (özellikle beyaz renk)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "PPF kaplama önerilir.",
+              "maliyet": "15.000-25.000 TL (kaplama)"
+          }
+      ]
+  },
+  {
+      "marka": "Hyundai",
+      "model": "Tucson",
+      "kasa_tipi": "SUV",
+      "motor": "1.6 CRDi (136 HP) DCT",
+      "paket": "Tüm paketler",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "AdBlue sensörü / depo arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Depo değişimi.",
+              "maliyet": "12.000-20.000 TL"
+          },
+          {
+              "sorun": "DCT şanzıman vuruntu (soğukta)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Yazılım + yağ değişimi.",
+              "maliyet": "10.000-18.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Hyundai",
+      "model": "Santa Fe",
+      "kasa_tipi": "SUV",
+      "motor": "2.2 CRDi (202 HP)",
+      "paket": "Elite / Prestige",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "8DCT şanzıman gecikme / titreme",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Islak kavrama revizyonu.",
+              "maliyet": "30.000-50.000 TL"
+          },
+          {
+              "sorun": "DPF + EGR tıkanması (şehir içi)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%45",
+              "cozum": "Temizlik + valf değişimi.",
+              "maliyet": "8.000-15.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Hyundai",
+      "model": "Ioniq 5",
+      "kasa_tipi": "SUV Elektrik",
+      "motor": "58-77 kWh",
+      "paket": "Progressive / Prestige",
+      "yil_araligi": "2021-2025",
+      "sorunlar": [
+          {
+              "sorun": "12V akü boşalması / araç kilitlenmesi",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Akü değişimi + yazılım güncellemesi.",
+              "maliyet": "6.000-12.000 TL"
+          },
+          {
+              "sorun": "ICCÜ arızası (şarj kesilmesi)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%40",
+              "cozum": "ICCÜ modülü değişimi (garanti ücretsiz).",
+              "maliyet": "Ücretsiz-25.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Hyundai",
+      "model": "Staria",
+      "kasa_tipi": "Minibüs",
+      "motor": "2.2 CRDi (177 HP)",
+      "paket": "Elite / Prestige",
+      "yil_araligi": "2022-2025",
+      "sorunlar": [
+          {
+              "sorun": "8 ileri otomatik şanzıman vuruntu (yükte)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Şanzıman yağı + tork konvertör revizyonu.",
+              "maliyet": "20.000-35.000 TL"
+          },
+          {
+              "sorun": "AdBlue + DPF tıkanması (ticari kullanım)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%45",
+              "cozum": "Temizlik + sensör değişimi.",
+              "maliyet": "10.000-18.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Nissan",
+      "model": "Qashqai",
+      "kasa_tipi": "SUV",
+      "motor": "1.3 DIG-T (158 HP) Mild Hybrid",
+      "paket": "Sky Pack / Tekna",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "CVT şanzıman titreme / sarsıntı / dağılma (150k km öncesi kronik)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%70",
+              "cozum": "Şanzıman revizyonu veya komple değişim (garanti TSB ile ücretsiz). Yazılım güncellemesi + yağ değişimi önler.",
+              "maliyet": "35.000-60.000 TL (garanti dışı)"
+          },
+          {
+              "sorun": "Turbo hortum patlaması (dizel modellerde kronik)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Hortum + turbo contası değişimi, düzenli bakım şart.",
+              "maliyet": "8.000-15.000 TL"
+          },
+          {
+              "sorun": "Multimedya ekran donması / teyp açılıp kapanma",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Yazılım reset + modül değişimi (ücretsiz OTA).",
+              "maliyet": "Ücretsiz-10.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Nissan",
+      "model": "Qashqai",
+      "kasa_tipi": "SUV",
+      "motor": "1.7 dCi (150 HP)",
+      "paket": "Tüm paketler",
+      "yil_araligi": "2020-2024",
+      "sorunlar": [
+          {
+              "sorun": "Oksijen sensörü (O2) arızası / motor lambası (7+ kez değişim kronik)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%65",
+              "cozum": "Sensör değişimi + egzoz kontrolü, garanti sonrası ücretli.",
+              "maliyet": "4.000-8.000 TL"
+          },
+          {
+              "sorun": "Amortisör erken aşınma / sızıntı (yol tutuş kaybı)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Takım değişimi (Monroe önerilir).",
+              "maliyet": "6.000-12.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Nissan",
+      "model": "Qashqai e-Power",
+      "kasa_tipi": "SUV",
+      "motor": "1.5 e-Power Hybrid (190 HP)",
+      "paket": "Tekna / Sky Pack",
+      "yil_araligi": "2024-2025",
+      "sorunlar": [
+          {
+              "sorun": "Akü bağlantı hatası / e-Power sistemi çalışmama",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Akü şarjı + bağlantı revizyonu (garanti ücretsiz).",
+              "maliyet": "Ücretsiz-5.000 TL"
+          },
+          {
+              "sorun": "Klima gaz kaçağı / soğutmama (yaz aylarında kronik)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%45",
+              "cozum": "Gaz dolumu + sızıntı tespiti.",
+              "maliyet": "3.000-7.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Nissan",
+      "model": "Juke",
+      "kasa_tipi": "SUV",
+      "motor": "1.0 DIG-T (117 HP)",
+      "paket": "Tekna / N-Connecta",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Klima menfez bozulması / havalandırma arızası (garanti reddi kronik)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Menfez seti değişimi (garanti sonrası ücretli).",
+              "maliyet": "2.000-5.000 TL"
+          },
+          {
+              "sorun": "Direksiyon mil kauçuğu ses / aşınma",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Kauçuk değişimi (kullanıcı hatası diye reddediliyor).",
+              "maliyet": "1.500-4.000 TL"
+          },
+          {
+              "sorun": "Teyp ekran silik / görünmeme",
+              "kronik_mi": true,
+              "etkilenme_orani": "%45",
+              "cozum": "Ekran modülü değişimi.",
+              "maliyet": "5.000-10.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Nissan",
+      "model": "Juke Hybrid",
+      "kasa_tipi": "SUV",
+      "motor": "1.6 e-Power Hybrid (143 HP)",
+      "paket": "Tüm paketler",
+      "yil_araligi": "2023-2025",
+      "sorunlar": [
+          {
+              "sorun": "Hibrit sistem akü hatası / şarj sorunu",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Akü testi + yazılım güncellemesi.",
+              "maliyet": "Ücretsiz-8.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Nissan",
+      "model": "Micra",
+      "kasa_tipi": "Hatchback",
+      "motor": "0.9 IG-T (90 HP) / 1.0 IG-T (100 HP)",
+      "paket": "Tekna / Acenta",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "CVT şanzıman arıza lambası / tekleme (88k km kronik)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Şanzıman revizyonu (tamir yok, komple değişim).",
+              "maliyet": "25.000-45.000 TL"
+          },
+          {
+              "sorun": "Yakınlık sensörü / park asistanı kilitlenme",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Sensör değişimi + yazılım reset.",
+              "maliyet": "3.000-6.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Nissan",
+      "model": "X-Trail",
+      "kasa_tipi": "SUV",
+      "motor": "1.6 dCi (163 HP) / 2.0 dCi (177 HP)",
+      "paket": "Platinum / Tekna",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Oksijen sensörü arızası (7+ kez değişim kronik)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%65",
+              "cozum": "Sensör + egzoz sistemi kontrolü.",
+              "maliyet": "4.000-9.000 TL"
+          },
+          {
+              "sorun": "Teyp / multimedya açılıp kapanma (seyir halindeyken)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Modül değişimi.",
+              "maliyet": "5.000-10.000 TL"
+          },
+          {
+              "sorun": "Klima kompresörü / soğutma arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Kompresör değişimi + gaz dolumu.",
+              "maliyet": "7.000-14.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Nissan",
+      "model": "X-Trail e-Power",
+      "kasa_tipi": "SUV",
+      "motor": "2.5 e-Power Hybrid (213 HP)",
+      "paket": "Tüm paketler",
+      "yil_araligi": "2023-2025",
+      "sorunlar": [
+          {
+              "sorun": "e-Power akü / şarj hatası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Akü revizyonu (garanti ücretsiz).",
+              "maliyet": "Ücretsiz-10.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Nissan",
+      "model": "Navara",
+      "kasa_tipi": "Pickup",
+      "motor": "2.3 dCi (160/190 HP)",
+      "paket": "SE / Tekna",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Şaft / diferansiyel sesi (yük altında kronik)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Şaft değişimi (garanti kapsamında).",
+              "maliyet": "15.000-25.000 TL"
+          },
+          {
+              "sorun": "AdBlue + DPF tıkanması (ticari kullanım)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Temizlik + sensör değişimi.",
+              "maliyet": "8.000-15.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Nissan",
+      "model": "Ariya",
+      "kasa_tipi": "SUV Elektrik",
+      "motor": "63-87 kWh (217/394 HP)",
+      "paket": "Tekna / Evolve",
+      "yil_araligi": "2023-2025",
+      "sorunlar": [
+          {
+              "sorun": "12V akü boşalma / şarj kesintisi",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Akü + BMS yazılımı.",
+              "maliyet": "Ücretsiz-8.000 TL"
+          },
+          {
+              "sorun": "Yazılım / ekran donması",
+              "kronik_mi": true,
+              "etkilenme_orani": "%40",
+              "cozum": "OTA güncellemesi.",
+              "maliyet": "Ücretsiz"
+          }
+      ]
+  },
+  {
+      "marka": "Nissan",
+      "model": "Leaf",
+      "kasa_tipi": "Hatchback Elektrik",
+      "motor": "40-62 kWh (150/217 HP)",
+      "paket": "Tüm paketler",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Batarya ısınma / menzil kaybı (hızlı şarjda)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%45",
+              "cozum": "Soğutma yazılımı + modül kontrolü.",
+              "maliyet": "Ücretsiz-15.000 TL"
+          },
+          {
+              "sorun": "CHAdeMO şarj portu arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%40",
+              "cozum": "Port değişimi.",
+              "maliyet": "10.000-20.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Opel",
+      "model": "Corsa",
+      "kasa_tipi": "Hatchback",
+      "motor": "1.2 PureTech (100/130 HP)",
+      "paket": "Edition / Elegance / Ultimate",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Triger kayışı erken aşınma / yağ içinde dağılma",
+              "kronik_mi": true,
+              "etkilenme_orani": "%70",
+              "cozum": "Tam triger seti + yağ pompası değişimi (geri çağırma JZR/HFC). 2022 Kasım sonrası revize kayış, garanti ücretsiz.",
+              "maliyet": "20.000-35.000 TL"
+          },
+          {
+              "sorun": "EAT8 şanzıman sarsıntı / gecikmeli vites",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Yazılım + mekatronik güncellemesi.",
+              "maliyet": "15.000-25.000 TL"
+          },
+          {
+              "sorun": "Motor arıza lambası / rölanti dalgalanma",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Bobin + enjektör temizliği.",
+              "maliyet": "4.000-10.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Opel",
+      "model": "Corsa",
+      "kasa_tipi": "Hatchback",
+      "motor": "1.5 Dizel (100 HP)",
+      "paket": "Tüm paketler",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "AdBlue depo / sensör arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Depo komple değişim (iyi niyetle %50-70 indirim).",
+              "maliyet": "12.000-22.000 TL"
+          },
+          {
+              "sorun": "DPF tıkanması (şehir içi)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%45",
+              "cozum": "Temizlik + forced regen.",
+              "maliyet": "5.000-12.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Opel",
+      "model": "Astra",
+      "kasa_tipi": "Hatchback / SW",
+      "motor": "1.2 PureTech (110/130 HP)",
+      "paket": "Edition / Elegance / GS",
+      "yil_araligi": "2021-2025",
+      "sorunlar": [
+          {
+              "sorun": "Triger kayışı / yağ basıncı uyarısı",
+              "kronik_mi": true,
+              "etkilenme_orani": "%65",
+              "cozum": "Geri çağırma kapsamında değişim, 2023+ revize motor.",
+              "maliyet": "25.000-40.000 TL"
+          },
+          {
+              "sorun": "Direksiyon titreme 100-130 km/h",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Direksiyon kutusu + balans ayarı.",
+              "maliyet": "8.000-15.000 TL"
+          },
+          {
+              "sorun": "Multimedya ekran donması / ses sistemi arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Yazılım güncellemesi (OTA veya serviste).",
+              "maliyet": "Ücretsiz-6.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Opel",
+      "model": "Astra",
+      "kasa_tipi": "Hatchback / SW",
+      "motor": "1.5 Dizel (130 HP)",
+      "paket": "Tüm paketler",
+      "yil_araligi": "2021-2025",
+      "sorunlar": [
+          {
+              "sorun": "AdBlue sistemi komple arıza",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Depo + sensör değişimi.",
+              "maliyet": "15.000-25.000 TL"
+          },
+          {
+              "sorun": "EAT8 şanzıman vuruntu",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Yazılım + yağ değişimi.",
+              "maliyet": "12.000-20.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Opel",
+      "model": "Crossland",
+      "kasa_tipi": "SUV",
+      "motor": "1.2 PureTech (110/130 HP)",
+      "paket": "Essential / Elegance",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Triger kayışı döküntüsü / motor hasarı",
+              "kronik_mi": true,
+              "etkilenme_orani": "%70",
+              "cozum": "Tam revizyon (geri çağırma).",
+              "maliyet": "25.000-45.000 TL"
+          },
+          {
+              "sorun": "Süspansiyon gıcırtı / arka aks sesi",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Burç + amortisör lastiği.",
+              "maliyet": "4.000-9.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Opel",
+      "model": "Grandland",
+      "kasa_tipi": "SUV",
+      "motor": "1.2 PureTech (130 HP)",
+      "paket": "Elegance / Ultimate",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Triger + yağ pompası arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%65",
+              "cozum": "Geri çağırma kapsamında değişim.",
+              "maliyet": "30.000-50.000 TL"
+          },
+          {
+              "sorun": "Tavan boya kabarma / pas (üretim hatası)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Boya revizyonu (garanti ücretsiz).",
+              "maliyet": "10.000-20.000 TL"
+          },
+          {
+              "sorun": "Sunroof su sızdırma",
+              "kronik_mi": true,
+              "etkilenme_orani": "%45",
+              "cozum": "Conta + fitil değişimi.",
+              "maliyet": "6.000-12.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Opel",
+      "model": "Grandland",
+      "kasa_tipi": "SUV",
+      "motor": "1.5 Dizel (130 HP)",
+      "paket": "Tüm paketler",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "AdBlue depo deformasyonu",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Depo komple değişim.",
+              "maliyet": "15.000-25.000 TL"
+          },
+          {
+              "sorun": "EAT8 şanzıman sarsıntı / park arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Mekatronik revizyonu.",
+              "maliyet": "18.000-30.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Opel",
+      "model": "Mokka",
+      "kasa_tipi": "SUV",
+      "motor": "1.2 PureTech (100/130 HP)",
+      "paket": "Elegance / Ultimate",
+      "yil_araligi": "2021-2025",
+      "sorunlar": [
+          {
+              "sorun": "Triger kayışı kroniği",
+              "kronik_mi": true,
+              "etkilenme_orani": "%65",
+              "cozum": "Geri çağırma değişimi.",
+              "maliyet": "22.000-38.000 TL"
+          },
+          {
+              "sorun": "Ön panjur boya atması / plastik çatlama",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Panjur değişimi (garanti).",
+              "maliyet": "8.000-15.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Opel",
+      "model": "Combo Life",
+      "kasa_tipi": "Combi / Cargo",
+      "motor": "1.5 Dizel (100/130 HP)",
+      "paket": "Tüm paketler",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "AdBlue arızası / motor kesme",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Depo + sensör değişimi.",
+              "maliyet": "12.000-22.000 TL"
+          },
+          {
+              "sorun": "Debriyaj erken aşınma (yük altında)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Set değişimi.",
+              "maliyet": "10.000-18.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Peugeot",
+      "model": "208",
+      "kasa_tipi": "Hatchback",
+      "motor": "1.2 PureTech (100/130 HP)",
+      "paket": "Active / Allure",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Triger kayışı erken aşınma / yağ sızıntısı (yağ içinde çalışan tasarım)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%70",
+              "cozum": "Triger kayışı + yağ pompası değişimi (Stellantis geri çağırma JZR/HFC). 2020 Kasım sonrası modellerde revize, garanti ücretsiz. Düzenli yağ (0W-30) kullan.",
+              "maliyet": "20.000-35.000 TL (garanti dışı)"
+          },
+          {
+              "sorun": "Yarı otomatik şanzıman (EAT6) vites görmeme / sarsıntı",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Mekatronik revizyonu + yazılım güncellemesi. 2023+ modellerde EAT8'e geçişle azaldı.",
+              "maliyet": "15.000-25.000 TL"
+          },
+          {
+              "sorun": "Yağ eksiltme / motor arıza lambası (soğuk çalıştırma)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Piston segman + enjektör temizliği.",
+              "maliyet": "10.000-18.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Peugeot",
+      "model": "208",
+      "kasa_tipi": "Hatchback",
+      "motor": "1.2 PureTech (100/130 HP)",
+      "paket": "GT / GT Line",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Multimedya ekran donması / Bluetooth kopma (yüksek donanım)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%45 (GT özel)",
+              "cozum": "Yazılım OTA güncellemesi (ücretsiz serviste). 2024+ modellerde kalıcı.",
+              "maliyet": "Ücretsiz-5.000 TL"
+          },
+          {
+              "sorun": "Direksiyon titreme / süspansiyon gıcırtı (bozuk yollar)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%40",
+              "cozum": "Burç + amortisör lastiği değişimi.",
+              "maliyet": "4.000-8.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Peugeot",
+      "model": "208",
+      "kasa_tipi": "Hatchback",
+      "motor": "1.5 BlueHDi (100/130 HP)",
+      "paket": "Tüm paketler",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "AdBlue sensörü / depo arızası (850 km sonra çalışmama)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Depo + sensör değişimi (kronik kabul edilmiyor ama iyi niyet indirimi). Parça gecikmesi 1-2 ay.",
+              "maliyet": "15.000-25.000 TL"
+          },
+          {
+              "sorun": "DPF tıkanması / EGR valfi karbon birikimi",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Temizlik + valf revizyonu, şehir içi kullanımda her 50 bin km rutin.",
+              "maliyet": "5.000-12.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Peugeot",
+      "model": "2008",
+      "kasa_tipi": "SUV",
+      "motor": "1.2 PureTech (100/130 HP)",
+      "paket": "Active / Allure",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Triger kayışı döküntüsü / yağ basıncı uyarısı (otoyolda ani güç kaybı)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%65",
+              "cozum": "Tam triger seti değişimi (geri çağırma kapsamında). 2021+ modellerde revize kayış.",
+              "maliyet": "25.000-40.000 TL"
+          },
+          {
+              "sorun": "Intercooler yağ kaçağı (GT Line özel)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Intercooler + hortum değişimi.",
+              "maliyet": "8.000-15.000 TL"
+          },
+          {
+              "sorun": "Süspansiyon sesi / arka cam fitili kronik",
+              "kronik_mi": true,
+              "etkilenme_orani": "%45",
+              "cozum": "Fitil + burç değişimi.",
+              "maliyet": "3.000-7.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Peugeot",
+      "model": "2008",
+      "kasa_tipi": "SUV",
+      "motor": "1.5 BlueHDi (130 HP)",
+      "paket": "GT / GT Line",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "AdBlue sistemi arızası / motor lambası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Sistem iptali veya depo değişimi (kronik ama kabul edilmiyor).",
+              "maliyet": "12.000-20.000 TL"
+          },
+          {
+              "sorun": "EAT8 şanzıman gecikme / sarsıntı",
+              "kronik_mi": true,
+              "etkilenme_orani": "%40",
+              "cozum": "Yazılım güncellemesi + yağ.",
+              "maliyet": "10.000-18.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Peugeot",
+      "model": "3008",
+      "kasa_tipi": "SUV",
+      "motor": "1.2 PureTech (130 HP)",
+      "paket": "Active / Allure",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Triger kayışı / motor revizyonu (yağ sızıntısı)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%70",
+              "cozum": "Kayış + süzgeç değişimi (Stellantis geri çağırma). 2023+ revize motor.",
+              "maliyet": "30.000-50.000 TL"
+          },
+          {
+              "sorun": "Direksiyon titreme (105-125 km/h, düz yolda)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Direksiyon kutusu + balans ayarı.",
+              "maliyet": "8.000-15.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Peugeot",
+      "model": "3008",
+      "kasa_tipi": "SUV",
+      "motor": "1.5 BlueHDi (130 HP)",
+      "paket": "GT / GT Line",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "EAT8 şanzıman gecikmeli tepki / vuruntu",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Yazılım güncellemesi + mekatronik.",
+              "maliyet": "18.000-30.000 TL"
+          },
+          {
+              "sorun": "AdBlue depo / sensör kronik arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Depo değişimi (iyi niyet indirimiyle).",
+              "maliyet": "15.000-25.000 TL"
+          },
+          {
+              "sorun": "Multimedya donma / hoparlör arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%45 (GT özel)",
+              "cozum": "Yazılım reset + hoparlör değişimi.",
+              "maliyet": "2.000-6.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Peugeot",
+      "model": "308",
+      "kasa_tipi": "Hatchback / SW",
+      "motor": "1.2 PureTech (110/130 HP)",
+      "paket": "Active / Allure",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Triger kayışı aşınması / yağ basıncı düşüşü",
+              "kronik_mi": true,
+              "etkilenme_orani": "%65",
+              "cozum": "Tam set değişimi (geri çağırma kapsamında). 2014-2020 modeller riskli.",
+              "maliyet": "20.000-35.000 TL"
+          },
+          {
+              "sorun": "Rölanti dalgalanma / devir sorunu (LPG'li araçlarda)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%40",
+              "cozum": "Enjektör + ECU kalibrasyonu.",
+              "maliyet": "5.000-10.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Peugeot",
+      "model": "308",
+      "kasa_tipi": "Hatchback / SW",
+      "motor": "1.5 BlueHDi (130 HP)",
+      "paket": "GT / GT Line",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "AdBlue uyarı / rejenerasyon hatası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Sensör + tank değişimi.",
+              "maliyet": "12.000-20.000 TL"
+          },
+          {
+              "sorun": "Katalitik konvertör tıkanması",
+              "kronik_mi": true,
+              "etkilenme_orani": "%35",
+              "cozum": "Değişim + egzoz kontrolü.",
+              "maliyet": "10.000-18.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Peugeot",
+      "model": "5008",
+      "kasa_tipi": "SUV",
+      "motor": "1.2 PureTech (130 HP)",
+      "paket": "Allure / GT",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Triger / motor hasarı (yağ sızıntısı)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Revizyon seti (geri çağırma).",
+              "maliyet": "30.000-50.000 TL"
+          },
+          {
+              "sorun": "Kaput fitili / ön kapak açılma (seyir halindeyken)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%40 (2025 modellerde)",
+              "cozum": "Fitil + kilit değişimi (garanti).",
+              "maliyet": "5.000-10.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Peugeot",
+      "model": "5008",
+      "kasa_tipi": "SUV",
+      "motor": "1.5 BlueHDi (130 HP)",
+      "paket": "Tüm paketler",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "AdBlue kronik arızası / depo sızıntı",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Sistem iptali veya değişim.",
+              "maliyet": "15.000-25.000 TL"
+          },
+          {
+              "sorun": "Süspansiyon / koltuk kumaşı aşınma",
+              "kronik_mi": true,
+              "etkilenme_orani": "%35",
+              "cozum": "Burç + döşeme revizyonu.",
+              "maliyet": "4.000-8.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Peugeot",
+      "model": "Partner",
+      "kasa_tipi": "Panelvan / Combi",
+      "motor": "1.5 BlueHDi (100/130 HP)",
+      "paket": "Tüm paketler",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "AdBlue sensör / depo arızası (yük altında)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Depo değişimi + iptal seçeneği.",
+              "maliyet": "12.000-22.000 TL"
+          },
+          {
+              "sorun": "Şanzıman vites kitlenme / yük etkisi",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Senkromeç + yağ revizyonu.",
+              "maliyet": "10.000-18.000 TL"
+          },
+          {
+              "sorun": "Elektrik tesisatı / akü boşalma (ticari)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%40",
+              "cozum": "Kablo + alternatör testi.",
+              "maliyet": "5.000-10.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Renault",
+      "model": "Clio",
+      "kasa_tipi": "Hatchback",
+      "motor": "1.0 TCe (90 HP)",
+      "paket": "Touch / Zen / Joy",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "EDC şanzıman vites geçiş sarsıntısı / gecikme",
+              "kronik_mi": true,
+              "etkilenme_orani": "%70",
+              "cozum": "Yazılım güncellemesi + mekatronik revizyonu. 2023+ modellerde %50 azaldı, garanti ücretsiz.",
+              "maliyet": "15.000-25.000 TL (garanti dışı)"
+          },
+          {
+              "sorun": "Motor titreme / arıza lambası (soğuk çalıştırma)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Motor kulağı + enjektör temizliği. Düzenli bakım önler.",
+              "maliyet": "5.000-10.000 TL"
+          },
+          {
+              "sorun": "Rüzgar sesi (ön kapı fitilleri, 80+ km/s)",
+              "kronik_mi": false,
+              "etkilenme_orani": "%40",
+              "cozum": "Fitil değişimi + izolasyon süngeri.",
+              "maliyet": "2.000-4.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Renault",
+      "model": "Clio",
+      "kasa_tipi": "Hatchback",
+      "motor": "1.0 TCe (90 HP)",
+      "paket": "Icon / Techno",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "EDC şanzıman beyin arızası / 'Vites kutusunu kontrol ettirin' uyarısı",
+              "kronik_mi": true,
+              "etkilenme_orani": "%65",
+              "cozum": "Şanzıman beyin değişimi + yağ kontrolü. Icon'da sensörler erken yakalar.",
+              "maliyet": "20.000-30.000 TL"
+          },
+          {
+              "sorun": "Multimedya ekran donması / Bluetooth kopma",
+              "kronik_mi": true,
+              "etkilenme_orani": "%45 (Icon özel)",
+              "cozum": "Yazılım OTA güncellemesi (ücretsiz serviste).",
+              "maliyet": "Ücretsiz"
+          }
+      ]
+  },
+  {
+      "marka": "Renault",
+      "model": "Clio",
+      "kasa_tipi": "Hatchback",
+      "motor": "1.5 dCi (85/115 HP)",
+      "paket": "Tüm paketler",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Turbo arızası / EGR valfi tıkanması",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Turbo hortum + EGR temizliği. Kaliteli yakıt kullan.",
+              "maliyet": "8.000-15.000 TL"
+          },
+          {
+              "sorun": "DPF tıkanması (şehir içi)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Forced rejenerasyon + filtre değişimi.",
+              "maliyet": "5.000-12.000 TL"
+          },
+          {
+              "sorun": "Enjektör arızası (Euro6)",
+              "kronik_mi": false,
+              "etkilenme_orani": "%35",
+              "cozum": "Enjektör seti Bosch değişimi.",
+              "maliyet": "25.000-35.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Renault",
+      "model": "Megane",
+      "kasa_tipi": "Sedan / Hatchback",
+      "motor": "1.3 TCe (140 HP)",
+      "paket": "Joy / Touch / Icon",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "EDC şanzıman uğultu / sarsıntı (3-4. vites)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Şanzıman yağı + mekatronik güncellemesi. 2024+ modellerde revize.",
+              "maliyet": "18.000-28.000 TL"
+          },
+          {
+              "sorun": "ABS / yokuş kalkış / start-stop arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Sensör kalibrasyonu + yazılım reset (ücretsiz garanti).",
+              "maliyet": "Ücretsiz-5.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Renault",
+      "model": "Megane",
+      "kasa_tipi": "Sedan / Hatchback",
+      "motor": "1.3 TCe (140 HP)",
+      "paket": "Techno / RS Line",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "R-Link ekran donması / yeniden başlatma",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50 (Techno özel)",
+              "cozum": "Yazılım v3.0 güncellemesi + ekran modülü kontrolü.",
+              "maliyet": "Ücretsiz-8.000 TL"
+          },
+          {
+              "sorun": "Kapı fitili deformasyonu / ses yalıtımı kaybı",
+              "kronik_mi": true,
+              "etkilenme_orani": "%45",
+              "cozum": "Fitil değişimi + izolasyon.",
+              "maliyet": "3.000-6.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Renault",
+      "model": "Megane",
+      "kasa_tipi": "Sedan / Hatchback",
+      "motor": "1.5 Blue dCi (115 HP)",
+      "paket": "Tüm paketler",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "AdBlue sistemi arızası / uyarı lambası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Sensör + tank değişimi. Düzenli dolum önler.",
+              "maliyet": "7.000-12.000 TL"
+          },
+          {
+              "sorun": "Motor sarsıntı (1.800 devirde)",
+              "kronik_mi": false,
+              "etkilenme_orani": "%40",
+              "cozum": "Enjektör + turbo kontrolü.",
+              "maliyet": "10.000-18.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Renault",
+      "model": "Taliant",
+      "kasa_tipi": "Sedan",
+      "motor": "1.0 SCe (65 HP)",
+      "paket": "Joy / Touch",
+      "yil_araligi": "2021-2025",
+      "sorunlar": [
+          {
+              "sorun": "Vites mandalı kırılması / zor geçiş",
+              "kronik_mi": true,
+              "etkilenme_orani": "%45",
+              "cozum": "Mandallı değişimi + şanzıman yağı.",
+              "maliyet": "4.000-7.000 TL"
+          },
+          {
+              "sorun": "Havalandırma ızgara klips kırılması",
+              "kronik_mi": true,
+              "etkilenme_orani": "%40",
+              "cozum": "Klips seti değişimi (garanti ücretsiz).",
+              "maliyet": "1.000-2.500 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Renault",
+      "model": "Taliant",
+      "kasa_tipi": "Sedan",
+      "motor": "1.0 TCe (90 HP)",
+      "paket": "Icon / Techno",
+      "yil_araligi": "2021-2025",
+      "sorunlar": [
+          {
+              "sorun": "S.O.S / GPS anten arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Anten değişimi + yazılım kalibrasyonu.",
+              "maliyet": "6.000-10.000 TL"
+          },
+          {
+              "sorun": "Multimedya ekran kapanması (sıcakta)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%35 (Icon özel)",
+              "cozum": "Yazılım güncellemesi + soğutma fanı kontrolü.",
+              "maliyet": "Ücretsiz-3.000 TL"
+          },
+          {
+              "sorun": "Parça temini gecikmesi (far / stop lambası)",
+              "kronik_mi": false,
+              "etkilenme_orani": "%30",
+              "cozum": "Yedek parça stok kontrolü, ithal bekleme 1-2 ay.",
+              "maliyet": "Değişken"
+          }
+      ]
+  },
+  {
+      "marka": "Renault",
+      "model": "Taliant",
+      "kasa_tipi": "Sedan",
+      "motor": "1.5 Blue dCi (85/115 HP)",
+      "paket": "Tüm paketler",
+      "yil_araligi": "2021-2025",
+      "sorunlar": [
+          {
+              "sorun": "Motor ani ısınma / termostat arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%40",
+              "cozum": "Termostat + radyatör temizliği.",
+              "maliyet": "4.000-8.000 TL"
+          },
+          {
+              "sorun": "Alt döşeme aşınma / kırışma",
+              "kronik_mi": false,
+              "etkilenme_orani": "%25",
+              "cozum": "Döşeme değişimi.",
+              "maliyet": "1.500-3.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Renault",
+      "model": "Captur",
+      "kasa_tipi": "SUV",
+      "motor": "1.0 TCe (90 HP)",
+      "paket": "Touch / Zen",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Süspansiyon gıcırtı / amortisör erken aşınma",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Amortisör + burç değişimi.",
+              "maliyet": "6.000-12.000 TL"
+          },
+          {
+              "sorun": "Klima zayıf performans / kompresör arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%45",
+              "cozum": "Gaz dolumu + kompresör testi.",
+              "maliyet": "3.000-7.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Renault",
+      "model": "Captur",
+      "kasa_tipi": "SUV",
+      "motor": "1.3 TCe (130/155 HP) / Hybrid",
+      "paket": "Icon / Techno",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "EDC şanzıman OVK/P park arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Şanzıman yazılımı + beyin revizyonu.",
+              "maliyet": "20.000-35.000 TL"
+          },
+          {
+              "sorun": "S.O.S temassızlık / acil çağrı hatası (çukurlarda)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Kablo bağlantı + anten kontrolü.",
+              "maliyet": "4.000-8.000 TL"
+          },
+          {
+              "sorun": "Ayna katlanma arızası / boya atması",
+              "kronik_mi": false,
+              "etkilenme_orani": "%35 (Icon özel)",
+              "cozum": "Motor + boya revizyonu.",
+              "maliyet": "5.000-10.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Renault",
+      "model": "Captur",
+      "kasa_tipi": "SUV",
+      "motor": "1.5 Blue dCi (115 HP)",
+      "paket": "Tüm paketler",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Motor yağ eksiltme / turbo güç kaybı",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Segman + turbo değişimi.",
+              "maliyet": "12.000-20.000 TL"
+          },
+          {
+              "sorun": "Yakıt verisi sıfırlanması / ECU arıza",
+              "kronik_mi": true,
+              "etkilenme_orani": "%40",
+              "cozum": "Yazılım reset + akü testi.",
+              "maliyet": "2.000-5.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Renault",
+      "model": "Kangoo",
+      "kasa_tipi": "Panelvan / Combi",
+      "motor": "1.5 Blue dCi (95/115 HP)",
+      "paket": "Tüm paketler",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Şanzıman vites kaçırma / yük altında kırma",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Senkromeç + yağ değişimi.",
+              "maliyet": "10.000-18.000 TL"
+          },
+          {
+              "sorun": "Elektrik tesisatı / akü boşalma (ticari kullanım)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Kablo revizyonu + alternatör testi.",
+              "maliyet": "5.000-9.000 TL"
+          },
+          {
+              "sorun": "Arka kapı / bagaj sensörü arızası",
+              "kronik_mi": false,
+              "etkilenme_orani": "%35",
+              "cozum": "Sensör değişimi.",
+              "maliyet": "3.000-6.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Skoda",
+      "model": "Fabia",
+      "kasa_tipi": "Hatchback",
+      "motor": "1.0 TSI (95/110 HP)",
+      "paket": "Ambition / Style",
+      "yil_araligi": "2021-2025",
+      "sorunlar": [
+          {
+              "sorun": "1.0 TSI yağ eksiltme (5-10 bin km’de 0.5-1 lt)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%65",
+              "cozum": "Piston segman + conta değişimi. 2023+ revize piston var, garanti ücretsiz.",
+              "maliyet": "15.000-25.000 TL"
+          },
+          {
+              "sorun": "DQ200 kuru DSG mekatronik + kavrama arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Tam kavrama seti + mekatronik değişimi.",
+              "maliyet": "22.000-38.000 TL"
+          },
+          {
+              "sorun": "Triger zinciri gergi arızası (soğuk çalıştırma sesi)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Gergi + zincir değişimi.",
+              "maliyet": "10.000-18.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Skoda",
+      "model": "Scala",
+      "kasa_tipi": "Hatchback",
+      "motor": "1.0 TSI (110 HP) / 1.5 TSI (150 HP)",
+      "paket": "Ambition / Style",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "DQ200 kuru DSG titreme + vites atma sorunu",
+              "kronik_mi": true,
+              "etkilenme_orani": "%65",
+              "cozum": "Kavrama + mekatronik revizyonu.",
+              "maliyet": "25.000-40.000 TL"
+          },
+          {
+              "sorun": "Yağ eksiltme + segman aşınması",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Üst kapak revizyonu.",
+              "maliyet": "15.000-28.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Skoda",
+      "model": "Octavia",
+      "kasa_tipi": "Liftback / Combi",
+      "motor": "1.0 TSI (110 HP) / 1.5 TSI (150 HP)",
+      "paket": "Ambition / Style / RS",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "DQ381 ıslak DSG mekatronik arızası (P/R geçişleri sarsıntılı)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Mekatronik + yağ değişimi. 2023+ yazılım ile azaldı.",
+              "maliyet": "28.000-48.000 TL"
+          },
+          {
+              "sorun": "MIB3 multimedya donma / yeniden başlatma",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Yazılım güncellemesi (serviste 1-2 gün).",
+              "maliyet": "Ücretsiz-8.000 TL"
+          },
+          {
+              "sorun": "Yağ eksiltme + zincir gergi (1.5 TSI)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Gergi + zincir değişimi.",
+              "maliyet": "12.000-22.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Skoda",
+      "model": "Octavia",
+      "kasa_tipi": "Liftback / Combi",
+      "motor": "2.0 TDI (150 HP)",
+      "paket": "Tüm paketler",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "AdBlue depo + sensör arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Depo komple değişimi.",
+              "maliyet": "12.000-22.000 TL"
+          },
+          {
+              "sorun": "EGR + DPF tıkanması",
+              "kronik_mi": true,
+              "etkilenme_orani": "%45",
+              "cozum": "Temizlik + valf değişimi.",
+              "maliyet": "8.000-15.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Skoda",
+      "model": "Kamiq",
+      "kasa_tipi": "SUV",
+      "motor": "1.0 TSI (110 HP)",
+      "paket": "Ambition / Style",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "DQ200 kuru DSG kavrama + mekatronik",
+              "kronik_mi": true,
+              "etkilenme_orani": "%65",
+              "cozum": "Tam set değişimi.",
+              "maliyet": "25.000-40.000 TL"
+          },
+          {
+              "sorun": "Yağ eksiltme (her 7-10 bin km’de 0.5 lt)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Segman revizyonu.",
+              "maliyet": "15.000-25.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Skoda",
+      "model": "Karoq",
+      "kasa_tipi": "SUV",
+      "motor": "1.5 TSI (150 HP)",
+      "paket": "Style / Sportline",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "DQ381 DSG mekatronik + yağ kaçağı",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Mekatronik + conta değişimi.",
+              "maliyet": "30.000-50.000 TL"
+          },
+          {
+              "sorun": "Panoramik cam su sızdırma",
+              "kronik_mi": true,
+              "etkilenme_orani": "%45",
+              "cozum": "Fitil + drenaj temizliği.",
+              "maliyet": "6.000-12.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Skoda",
+      "model": "Kodiaq",
+      "kasa_tipi": "SUV",
+      "motor": "1.5 TSI (150 HP) / 2.0 TSI (190 HP)",
+      "paket": "Elite / Sportline / L&K",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "DQ381 ıslak DSG mekatronik arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%65",
+              "cozum": "Revizyon + yazılım.",
+              "maliyet": "32.000-55.000 TL"
+          },
+          {
+              "sorun": "Ön radar + adaptif cruise devre dışı kalma",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Sensör kalibrasyonu + güncelleme.",
+              "maliyet": "8.000-15.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Skoda",
+      "model": "Kodiaq",
+      "kasa_tipi": "SUV",
+      "motor": "2.0 TDI (150/200 HP)",
+      "paket": "Tüm paketler",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "AdBlue kristalleşmesi + pompa arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Pompa + depo değişimi.",
+              "maliyet": "15.000-28.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Skoda",
+      "model": "Superb",
+      "kasa_tipi": "Liftback / Combi",
+      "motor": "1.5 TSI (150 HP) / 2.0 TSI (190/280 HP)",
+      "paket": "Elite / L&K",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "DQ381 DSG mekatronik + yağ kaçağı",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Tam revizyon.",
+              "maliyet": "35.000-60.000 TL"
+          },
+          {
+              "sorun": "Matrix LED far arızası (sol/sağ kapanma)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%45",
+              "cozum": "Modül değişimi.",
+              "maliyet": "20.000-35.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Skoda",
+      "model": "Enyaq",
+      "kasa_tipi": "SUV Elektrik",
+      "motor": "60-85 kWh",
+      "paket": "Loft / Lounge / Suite",
+      "yil_araligi": "2021-2025",
+      "sorunlar": [
+          {
+              "sorun": "12V akü boşalması + araç kilitlenme",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Akü + yazılım güncellemesi.",
+              "maliyet": "6.000-12.000 TL"
+          },
+          {
+              "sorun": "Yazılım hataları + şarj kesilmesi",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "OTA güncellemesi (serviste 1-2 gün).",
+              "maliyet": "Ücretsiz"
+          }
+      ]
+  },
+  {
+      "marka": "Toyota",
+      "model": "Corolla",
+      "kasa_tipi": "Sedan",
+      "motor": "1.5 Benzin (125 HP)",
+      "paket": "Dream / Dream X-Pack / Passion",
+      "yil_araligi": "2021-2025",
+      "sorunlar": [
+          {
+              "sorun": "CVT şanzıman sarsıntı / gecikme (sport modda sesli)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Şanzıman yağı değişimi + yazılım güncellemesi. 2023+ modellerde revize, garanti ücretsiz.",
+              "maliyet": "10.000-18.000 TL (garanti dışı)"
+          },
+          {
+              "sorun": "Motor yatak sarma / titreşim (3 silindir etkisi)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Motor revizyonu (yatak + piston). Düzenli yağ kontrolü önler, teknik bülten var.",
+              "maliyet": "25.000-40.000 TL"
+          },
+          {
+              "sorun": "Yalıtım zayıf / yol sesi (kabin içi)",
+              "kronik_mi": false,
+              "etkilenme_orani": "%45",
+              "cozum": "Kapı fitilleri + ekstra izolasyon sünger.",
+              "maliyet": "3.000-6.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Toyota",
+      "model": "Corolla",
+      "kasa_tipi": "Sedan",
+      "motor": "1.8 Hybrid (122 HP)",
+      "paket": "Dream / Passion / GR Sport",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Multimedya ekran donması / Bluetooth kopma",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Yazılım OTA güncellemesi (ücretsiz serviste). 2024+ modellerde kalıcı çözüldü.",
+              "maliyet": "Ücretsiz-5.000 TL"
+          },
+          {
+              "sorun": "Direksiyon kutusu ses / çatlak (kasislerde)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%40",
+              "cozum": "Kutu revizyonu + conta değişimi. Garanti kapsamında ücretsiz.",
+              "maliyet": "8.000-15.000 TL"
+          },
+          {
+              "sorun": "Akü boşalma (start-stop hibrit)",
+              "kronik_mi": false,
+              "etkilenme_orani": "%35",
+              "cozum": "AGM akü değişimi + alternatör testi.",
+              "maliyet": "4.000-7.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Toyota",
+      "model": "Corolla",
+      "kasa_tipi": "Hatchback",
+      "motor": "1.5 Benzin / 1.8 Hybrid",
+      "paket": "Tüm paketler",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Süspansiyon tıkırtı / amortisör sesi (bozuk yollar)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Burç + amortisör lastiği değişimi.",
+              "maliyet": "5.000-10.000 TL"
+          },
+          {
+              "sorun": "Boya soyulması / kaporta çatlak (tavan/ön tampon)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%30",
+              "cozum": "Boya revizyonu (teknik bültenle ücretsiz).",
+              "maliyet": "7.000-12.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Toyota",
+      "model": "Corolla Cross",
+      "kasa_tipi": "SUV",
+      "motor": "1.8 Hybrid (140 HP)",
+      "paket": "Dream / Passion",
+      "yil_araligi": "2023-2025",
+      "sorunlar": [
+          {
+              "sorun": "Silecek arızası / hidrolik hata (yağ basıncı)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%45",
+              "cozum": "Hidrolik pompa + sensör değişimi. Garanti ücretsiz.",
+              "maliyet": "6.000-11.000 TL"
+          },
+          {
+              "sorun": "Hibrit batarya ısınma / güç kaybı",
+              "kronik_mi": false,
+              "etkilenme_orani": "%35",
+              "cozum": "Soğutma sistemi temizliği + yazılım.",
+              "maliyet": "4.000-8.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Toyota",
+      "model": "C-HR",
+      "kasa_tipi": "SUV",
+      "motor": "1.8 Hybrid (122 HP)",
+      "paket": "Flame / Passion",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Süspansiyon gıcırtı / amortisör sesi (arka aks)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Amortisör + burç değişimi (yüksek kasa özel).",
+              "maliyet": "7.000-13.000 TL"
+          },
+          {
+              "sorun": "Klima su hırıltısı / kompresör arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%45",
+              "cozum": "Gaz dolumu + termostat değişimi.",
+              "maliyet": "3.000-7.000 TL"
+          },
+          {
+              "sorun": "Şanzıman kulağı gevşeme / motor sesi",
+              "kronik_mi": false,
+              "etkilenme_orani": "%40",
+              "cozum": "Kulağı revizyonu.",
+              "maliyet": "5.000-9.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Toyota",
+      "model": "C-HR",
+      "kasa_tipi": "SUV",
+      "motor": "1.2 Turbo (116 HP)",
+      "paket": "Tüm paketler",
+      "yil_araligi": "2020-2023",
+      "sorunlar": [
+          {
+              "sorun": "Elektrik tesisatı / akü boşalma",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Kablo + alternatör kontrolü.",
+              "maliyet": "4.000-8.000 TL"
+          },
+          {
+              "sorun": "Yakıt enjektörü tıkanma / güç kaybı",
+              "kronik_mi": false,
+              "etkilenme_orani": "%35",
+              "cozum": "Temizlik + filtre değişimi.",
+              "maliyet": "6.000-12.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Toyota",
+      "model": "Yaris",
+      "kasa_tipi": "Hatchback",
+      "motor": "1.5 Hybrid (116 HP)",
+      "paket": "Tüm paketler",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Fren pedalı yumuşama / hibrit rejenerasyon hatası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%40",
+              "cozum": "Fren hidroliği + sensör kalibrasyonu.",
+              "maliyet": "3.000-6.000 TL"
+          },
+          {
+              "sorun": "Multimedya navigasyon hataları",
+              "kronik_mi": true,
+              "etkilenme_orani": "%30",
+              "cozum": "Yazılım güncellemesi.",
+              "maliyet": "Ücretsiz"
+          }
+      ]
+  },
+  {
+      "marka": "Toyota",
+      "model": "Hilux",
+      "kasa_tipi": "Pickup",
+      "motor": "2.4 D-4D (150 HP)",
+      "paket": "Invincible / Adventure",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "AdBlue pompası arızası / uyarı lambası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Pompa + sensör değişimi. Ticari kullanımda rutin bakım.",
+              "maliyet": "10.000-18.000 TL"
+          },
+          {
+              "sorun": "Şanzıman vites kaçırma / yük altında kırma",
+              "kronik_mi": true,
+              "etkilenme_orani": "%45",
+              "cozum": "Senkromeç + yağ revizyonu.",
+              "maliyet": "15.000-25.000 TL"
+          },
+          {
+              "sorun": "PCS sistemi arızası / motor lambası",
+              "kronik_mi": false,
+              "etkilenme_orani": "%35",
+              "cozum": "Yazılım reset + sensör testi.",
+              "maliyet": "4.000-8.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Toyota",
+      "model": "Hilux",
+      "kasa_tipi": "Pickup",
+      "motor": "2.8 D-4D (204 HP)",
+      "paket": "Tüm paketler",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "DPF tıkanması / rejenerasyon hatası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%40",
+              "cozum": "Filtre temizliği + forced regen.",
+              "maliyet": "6.000-12.000 TL"
+          },
+          {
+              "sorun": "Otomatik ayna katlanma arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%30",
+              "cozum": "Motor + kablo değişimi.",
+              "maliyet": "5.000-9.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Toyota",
+      "model": "Proace",
+      "kasa_tipi": "Minibüs / Panelvan",
+      "motor": "2.0 D-4D (120/150 HP)",
+      "paket": "Tüm paketler",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Elektrik tesisatı / akü boşalma (ticari yük)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%45",
+              "cozum": "Kablo revizyonu + alternatör.",
+              "maliyet": "7.000-12.000 TL"
+          },
+          {
+              "sorun": "Arka kapı sensörü / bagaj arızası",
+              "kronik_mi": false,
+              "etkilenme_orani": "%35",
+              "cozum": "Sensör değişimi.",
+              "maliyet": "3.000-6.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Volkswagen",
+      "model": "Polo",
+      "kasa_tipi": "Hatchback",
+      "motor": "1.0 TSI (95/110 HP)",
+      "paket": "Life / Comfortline",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "TSI motor yağ eksiltme / yakma (her 5-10 bin km'de 0.5-1 lt)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Piston segman + üst kapak contası değişimi. 2023+ modellerde revize motor, garanti ücretsiz. Düzenli yağ kontrolü şart.",
+              "maliyet": "15.000-25.000 TL (garanti dışı)"
+          },
+          {
+              "sorun": "DSG şanzıman vites geçiş sarsıntısı / gecikme (kuru kavrama)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Mekatronik revizyonu + yağ değişimi. Yazılım güncellemesiyle %70 azalır.",
+              "maliyet": "20.000-35.000 TL"
+          },
+          {
+              "sorun": "Boğaz kelebeği / turbo hortumu tıkanması",
+              "kronik_mi": true,
+              "etkilenme_orani": "%45",
+              "cozum": "Temizlik + hortum değişimi, her 40 bin km rutin.",
+              "maliyet": "4.000-8.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Volkswagen",
+      "model": "Polo",
+      "kasa_tipi": "Hatchback",
+      "motor": "1.0 TSI (95/110 HP)",
+      "paket": "Highline / R-Line",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Multimedya ekran donması / Bluetooth kopma (yüksek donanım)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Yazılım OTA güncellemesi (ücretsiz serviste). 2024+ modellerde kalıcı.",
+              "maliyet": "Ücretsiz-6.000 TL"
+          },
+          {
+              "sorun": "Ön süspansiyon tıkırtı / trim sesleri (plastik aksam)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%40",
+              "cozum": "Burç + izolasyon sünger değişimi.",
+              "maliyet": "3.000-7.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Volkswagen",
+      "model": "Polo",
+      "kasa_tipi": "Hatchback",
+      "motor": "1.6 TDI (95 HP)",
+      "paket": "Tüm paketler",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "DPF tıkanması / enjektör arızası (şehir içi kullanım)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Filtre temizliği + Bosch enjektör değişimi.",
+              "maliyet": "10.000-20.000 TL"
+          },
+          {
+              "sorun": "Turbo gecikme / EGR valfi tıkanması",
+              "kronik_mi": true,
+              "etkilenme_orani": "%40",
+              "cozum": "Valf + hortum revizyonu.",
+              "maliyet": "6.000-12.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Volkswagen",
+      "model": "Golf",
+      "kasa_tipi": "Hatchback",
+      "motor": "1.0/1.5 TSI (110/130 HP)",
+      "paket": "Impression / Highline",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "DSG mekatronik arızası / vites kaçırma (7 ileri kuru)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%65",
+              "cozum": "Mekatronik değişimi + yazılım kalibrasyonu. 2023+ ıslak kavrama modellerde azaldı.",
+              "maliyet": "25.000-45.000 TL"
+          },
+          {
+              "sorun": "TSI yağ eksiltme / triger zinciri gerilme",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Zincir + segman revizyonu, garanti TSB ile ücretsiz.",
+              "maliyet": "18.000-30.000 TL"
+          },
+          {
+              "sorun": "Yazılım krizi / ekran kararma (MIB3 sistemi)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Güncelleme paketi (serviste 1-2 gün).",
+              "maliyet": "Ücretsiz-10.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Volkswagen",
+      "model": "Golf",
+      "kasa_tipi": "Hatchback",
+      "motor": "1.5/2.0 TSI (130/245 HP)",
+      "paket": "GTI / R-Line",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Adaptif cruise / şerit takip sensör arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%45",
+              "cozum": "Kamera + radar kalibrasyonu.",
+              "maliyet": "8.000-15.000 TL"
+          },
+          {
+              "sorun": "Süspansiyon sertlik / gıcırtı (sport süspansiyon)",
+              "kronik_mi": false,
+              "etkilenme_orani": "%35",
+              "cozum": "Amorti + burç değişimi.",
+              "maliyet": "5.000-10.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Volkswagen",
+      "model": "Golf",
+      "kasa_tipi": "Hatchback",
+      "motor": "2.0 TDI (150 HP)",
+      "paket": "Tüm paketler",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "AdBlue sensörü / DPF rejenerasyon hatası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Sensör + filtre temizliği.",
+              "maliyet": "7.000-14.000 TL"
+          },
+          {
+              "sorun": "EGR valfi karbon birikimi",
+              "kronik_mi": true,
+              "etkilenme_orani": "%40",
+              "cozum": "Valf değişimi + yazılım.",
+              "maliyet": "5.000-9.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Volkswagen",
+      "model": "T-Roc",
+      "kasa_tipi": "SUV",
+      "motor": "1.0/1.5 TSI (110/150 HP)",
+      "paket": "Life / Style",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "DSG şanzıman titreme / yokuş kalkış sarsıntısı",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Kavrama + mekatronik revizyonu.",
+              "maliyet": "22.000-40.000 TL"
+          },
+          {
+              "sorun": "Ön panjur soyulma / boya kabarma",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Panjur değişimi (garanti kapsamında).",
+              "maliyet": "10.000-18.000 TL"
+          },
+          {
+              "sorun": "Süspansiyon gıcırtı (bozuk yollarda)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%45",
+              "cozum": "Burç + amorti lastiği.",
+              "maliyet": "4.000-8.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Volkswagen",
+      "model": "T-Roc",
+      "kasa_tipi": "SUV",
+      "motor": "1.5/2.0 TSI (150/190 HP)",
+      "paket": "R-Line / R",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Yazılım arızası / ekran donma (R-Line multimedya)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "MIB güncellemesi + modül reset.",
+              "maliyet": "Ücretsiz-12.000 TL"
+          },
+          {
+              "sorun": "Arka stop lambası çatlak (plastik aksam)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%35",
+              "cozum": "Lamba modülü değişimi.",
+              "maliyet": "6.000-10.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Volkswagen",
+      "model": "T-Roc",
+      "kasa_tipi": "SUV",
+      "motor": "2.0 TDI (150 HP)",
+      "paket": "Tüm paketler",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "DPF / EGR tıkanması (Euro6 dizel)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Temizlik + valf değişimi.",
+              "maliyet": "8.000-15.000 TL"
+          },
+          {
+              "sorun": "Turbo güç kaybı / enjektör hatası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%40",
+              "cozum": "Enjektör seti + turbo hortum.",
+              "maliyet": "12.000-22.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Volkswagen",
+      "model": "Tiguan",
+      "kasa_tipi": "SUV",
+      "motor": "1.4/1.5 TSI (150 HP)",
+      "paket": "Life / Elegance",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Yazılım krizi / tüm güvenlik sistemleri devre dışı (far/multimedya)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Güncelleme + beyin revizyonu (serviste 1-2 gün).",
+              "maliyet": "Ücretsiz-15.000 TL"
+          },
+          {
+              "sorun": "Cam tavan / sunroof çerçeve çatlama",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Çerçeve değişimi (teknik bültenle indirimli).",
+              "maliyet": "20.000-35.000 TL"
+          },
+          {
+              "sorun": "Ani durma / güç kesme (otobanda)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%45",
+              "cozum": "Sensör + ECU kalibrasyonu.",
+              "maliyet": "10.000-20.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Volkswagen",
+      "model": "Tiguan",
+      "kasa_tipi": "SUV",
+      "motor": "1.5/2.0 TSI (150/220 HP)",
+      "paket": "R-Line / Allspace",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "DSG şanzıman OVK/P park arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Mekatronik + yazılım güncellemesi.",
+              "maliyet": "25.000-45.000 TL"
+          },
+          {
+              "sorun": "Koltuk şişme / cam kapanmama (yazılımsal)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%40",
+              "cozum": "Pnömatik modül + güncelleme.",
+              "maliyet": "8.000-15.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Volkswagen",
+      "model": "Tiguan",
+      "kasa_tipi": "SUV",
+      "motor": "2.0 TDI (150/200 HP)",
+      "paket": "Tüm paketler",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "AdBlue / DPF rejenerasyon hatası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Sensör + filtre değişimi.",
+              "maliyet": "9.000-18.000 TL"
+          },
+          {
+              "sorun": "Triger zinciri sarkma / motor arıza lambası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%45",
+              "cozum": "Zincir revizyonu.",
+              "maliyet": "15.000-25.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Volkswagen",
+      "model": "Passat",
+      "kasa_tipi": "Sedan / Variant",
+      "motor": "1.4/1.5 TSI (150 HP)",
+      "paket": "Impression / Elegance",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "DSG kavrama titreme / silkeleme (kalkışta)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Kavrama seti + mekatronik değişimi.",
+              "maliyet": "25.000-40.000 TL"
+          },
+          {
+              "sorun": "Sunroof çerçeve çatlama / su sızdırma",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Çerçeve + conta revizyonu.",
+              "maliyet": "18.000-30.000 TL"
+          },
+          {
+              "sorun": "Devirdaim pompası arızası / hararet",
+              "kronik_mi": true,
+              "etkilenme_orani": "%45",
+              "cozum": "Pompa değişimi.",
+              "maliyet": "6.000-12.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Volkswagen",
+      "model": "Passat",
+      "kasa_tipi": "Sedan / Variant",
+      "motor": "2.0 TDI (150/190 HP)",
+      "paket": "R-Line",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Yazılım / ekran arızası (navigasyon/video)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "MIB3 güncellemesi.",
+              "maliyet": "Ücretsiz-10.000 TL"
+          },
+          {
+              "sorun": "Direksiyon kilidi / fren bırakmama",
+              "kronik_mi": true,
+              "etkilenme_orani": "%35",
+              "cozum": "Kolon modülü değişimi.",
+              "maliyet": "12.000-20.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Volkswagen",
+      "model": "ID.3",
+      "kasa_tipi": "Hatchback",
+      "motor": "Elektrik (58/77 kWh)",
+      "paket": "Pure / Pro",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Yazılım güncelleme krizi / şarj hatası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "OTA güncellemesi + batarya modülü kontrolü.",
+              "maliyet": "Ücretsiz-15.000 TL"
+          },
+          {
+              "sorun": "12V akü boşalma / araç çalışmama",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Akü değişimi + yazılım optimizasyonu.",
+              "maliyet": "5.000-10.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Volkswagen",
+      "model": "Transporter",
+      "kasa_tipi": "Panelvan / Minibüs",
+      "motor": "2.0 TDI (110/150 HP)",
+      "paket": "Tüm paketler",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Şanzıman kırma / vites kaçırma (yük altında)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Senkromeç + yağ revizyonu.",
+              "maliyet": "15.000-28.000 TL"
+          },
+          {
+              "sorun": "Enjektör / akü arızası (ticari kullanım)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%45",
+              "cozum": "Set değişimi + tesisat kontrolü.",
+              "maliyet": "10.000-20.000 TL"
+          },
+          {
+              "sorun": "Arka kapı / sensör hatası",
+              "kronik_mi": false,
+              "etkilenme_orani": "%35",
+              "cozum": "Sensör kalibrasyonu.",
+              "maliyet": "4.000-8.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Kia",
+      "model": "Picanto",
+      "kasa_tipi": "Hatchback",
+      "motor": "1.0 MPI (67 HP)",
+      "paket": "Live / Cool",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Marş basmama / elektrik kesintisi",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Yazılım + akü bağlantı revizyonu",
+              "maliyet": "Ücretsiz-4.000 TL"
+          },
+          {
+              "sorun": "Fren sertleşme / vakum pompası arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Hidrolik değişim + sensör kalibrasyonu",
+              "maliyet": "3.500-7.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Kia",
+      "model": "Picanto",
+      "kasa_tipi": "Hatchback",
+      "motor": "1.2 MPI (84 HP)",
+      "paket": "Style / Prestige / GT-Line",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Kapı kilit aktüatörü arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Aktüatör değişimi (garanti ücretsiz)",
+              "maliyet": "Ücretsiz-5.000 TL"
+          },
+          {
+              "sorun": "Süspansiyon gıcırtı",
+              "kronik_mi": true,
+              "etkilenme_orani": "%45",
+              "cozum": "Burç + amortisör lastiği",
+              "maliyet": "4.000-8.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Kia",
+      "model": "Rio",
+      "kasa_tipi": "Hatchback / Sedan",
+      "motor": "1.2 MPI (84 HP) / 1.4 MPI (100 HP)",
+      "paket": "Cool / Comfort / Prestige",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Otomatik şanzıman silkeleme / mekatronik arıza",
+              "kronik_mi": true,
+              "etkilenme_orani": "%65",
+              "cozum": "Yazılım + mekatronik tamiri",
+              "maliyet": "15.000-28.000 TL"
+          },
+          {
+              "sorun": "Kalorifer peteği tıkanması / hararet",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Peteği değişim + sistem temizliği",
+              "maliyet": "6.000-11.000 TL"
+          },
+          {
+              "sorun": "EPS direksiyon sertleşme",
+              "kronik_mi": true,
+              "etkilenme_orani": "%45",
+              "cozum": "EPS modülü değişimi",
+              "maliyet": "10.000-18.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Kia",
+      "model": "Stonic",
+      "kasa_tipi": "Crossover",
+      "motor": "1.0 T-GDI (100-120 HP)",
+      "paket": "Cool / Business / Prestige",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "7 ileri DCT titreme / kavrama aşınması",
+              "kronik_mi": true,
+              "etkilenme_orani": "%65",
+              "cozum": "Kavrama seti + mekatronik revizyonu",
+              "maliyet": "22.000-38.000 TL"
+          },
+          {
+              "sorun": "Arka süspansiyon ses",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Burç + lastik değişimi",
+              "maliyet": "5.000-10.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Kia",
+      "model": "Stonic",
+      "kasa_tipi": "Crossover",
+      "motor": "1.4 MPI (100 HP)",
+      "paket": "Elegance",
+      "yil_araligi": "2020-2023",
+      "sorunlar": [
+          {
+              "sorun": "Motor kulağı erken aşınma",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Takoz değişimi",
+              "maliyet": "6.000-12.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Kia",
+      "model": "Sportage",
+      "kasa_tipi": "SUV",
+      "motor": "1.6 GDI (132 HP)",
+      "paket": "Cool / Elegance",
+      "yil_araligi": "2020-2022",
+      "sorunlar": [
+          {
+              "sorun": "Yağ eksiltme / segman aşınması",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Piston-segman revizyonu (2023+ revize)",
+              "maliyet": "18.000-30.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Kia",
+      "model": "Sportage",
+      "kasa_tipi": "SUV",
+      "motor": "1.6 T-GDI (177-180 HP)",
+      "paket": "Prestige / GT-Line",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "DCT şanzıman vuruntu / ısınma",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Kavrama + yağ değişimi + yazılım",
+              "maliyet": "25.000-42.000 TL"
+          },
+          {
+              "sorun": "Gündüz LED arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "LED modül değişimi (garanti)",
+              "maliyet": "Ücretsiz-10.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Kia",
+      "model": "Sportage",
+      "kasa_tipi": "SUV",
+      "motor": "1.6 CRDi (115-136 HP)",
+      "paket": "Cool / Elegance / Prestige",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "DPF + AdBlue sensör arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%65",
+              "cozum": "Temizlik + sensör değişimi",
+              "maliyet": "8.000-16.000 TL"
+          },
+          {
+              "sorun": "Turbo hortumu patlama",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Hortum + kelepçe takımı",
+              "maliyet": "7.000-14.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Kia",
+      "model": "Ceed / XCeed / Ceed SW",
+      "kasa_tipi": "Hatchback / Crossover / SW",
+      "motor": "1.0 T-GDI (120 HP)",
+      "paket": "Prestige / GT-Line",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "7DCT titreme / kavrama aşınması",
+              "kronik_mi": true,
+              "etkilenme_orani": "%65",
+              "cozum": "Kavrama seti + yazılım güncellemesi",
+              "maliyet": "22.000-38.000 TL"
+          },
+          {
+              "sorun": "Torpido / döşeme çatlama",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Döşeme değişimi (iyi niyet %50)",
+              "maliyet": "8.000-15.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Kia",
+      "model": "Ceed / XCeed",
+      "kasa_tipi": "Hatchback / Crossover",
+      "motor": "1.6 CRDi (136 HP)",
+      "paket": "Tüm paketler",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "AdBlue depo + sensör arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Depo komple değişim",
+              "maliyet": "12.000-22.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Kia",
+      "model": "Sorento",
+      "kasa_tipi": "SUV",
+      "motor": "2.2 CRDi (202 HP)",
+      "paket": "Prestige / Platinum",
+      "yil_araligi": "2021-2025",
+      "sorunlar": [
+          {
+              "sorun": "AdBlue sistemi komple arıza",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Depo + pompa değişimi",
+              "maliyet": "15.000-28.000 TL"
+          },
+          {
+              "sorun": "8 ileri otomatik şanzıman gecikme",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Yazılım + yağ değişimi",
+              "maliyet": "12.000-22.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Kia",
+      "model": "EV6",
+      "kasa_tipi": "Crossover Elektrik",
+      "motor": "58 / 77.4 kWh",
+      "paket": "Air / GT-Line / GT",
+      "yil_araligi": "2021-2025",
+      "sorunlar": [
+          {
+              "sorun": "12V akü boşalma / araç kilitlenme",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Akü + yazılım güncellemesi",
+              "maliyet": "5.000-10.000 TL"
+          },
+          {
+              "sorun": "Hızlı şarj ısınma / kesinti",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Soğutma sistemi revizyonu",
+              "maliyet": "8.000-15.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Ford",
+      "model": "Focus",
+      "kasa_tipi": "Hatchback / Sedan",
+      "motor": "1.0 EcoBoost (125/155 HP)",
+      "paket": "Trend / Titanium",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Yağ eksiltme / segman aşınması",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Piston segman revizyonu + düzenli yağ kontrolü (2023+ revize motor)",
+              "maliyet": "15.000-25.000 TL"
+          },
+          {
+              "sorun": "DPF tıkanması (şehir içi kullanım)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Forced regeneration + filtre temizliği",
+              "maliyet": "5.000-12.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Ford",
+      "model": "Focus",
+      "kasa_tipi": "Hatchback / Sedan",
+      "motor": "1.5 EcoBlue (120 HP)",
+      "paket": "Style / ST-Line",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "EGR valfi tıkanması / emisyon artışı",
+              "kronik_mi": true,
+              "etkilenme_orani": "%65",
+              "cozum": "Valf temizliği + yazılım güncellemesi",
+              "maliyet": "6.000-10.000 TL"
+          },
+          {
+              "sorun": "Direksiyon gıcırtı / sertleşme",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Hidrolik pompa + yağ değişimi",
+              "maliyet": "8.000-15.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Ford",
+      "model": "Puma",
+      "kasa_tipi": "SUV",
+      "motor": "1.0 EcoBoost (125 HP)",
+      "paket": "Style / ST-Line",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "DCT şanzıman titreme / kavrama aşınması",
+              "kronik_mi": true,
+              "etkilenme_orani": "%65",
+              "cozum": "Kavrama seti + mekatronik revizyonu",
+              "maliyet": "20.000-35.000 TL"
+          },
+          {
+              "sorun": "Direksiyon mafsalı arızası / ses",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Mafsal değişimi (garanti kapsamında)",
+              "maliyet": "Ücretsiz-10.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Ford",
+      "model": "Puma",
+      "kasa_tipi": "SUV",
+      "motor": "1.0 EcoBoost Hybrid (155 HP)",
+      "paket": "Titanium / Vignale",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Yazılım hataları / ekran donması",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "OTA güncellemesi + modül reset",
+              "maliyet": "Ücretsiz"
+          },
+          {
+              "sorun": "Cam otomasyonu kilitlenme",
+              "kronik_mi": true,
+              "etkilenme_orani": "%45",
+              "cozum": "Yazılım + elektriksel parça değişimi",
+              "maliyet": "4.000-8.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Ford",
+      "model": "Kuga",
+      "kasa_tipi": "SUV",
+      "motor": "1.5 EcoBoost (150/182 HP)",
+      "paket": "Trend / Titanium",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Motor zincir arızası / yağ eksiltme",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Zincir + gergi değişimi (garanti dışı pahalı)",
+              "maliyet": "25.000-40.000 TL"
+          },
+          {
+              "sorun": "Soğutma suyu eksiltme / hararet",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Radyatör + hortum revizyonu",
+              "maliyet": "10.000-20.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Ford",
+      "model": "Kuga",
+      "kasa_tipi": "SUV",
+      "motor": "1.5 EcoBlue (120 HP)",
+      "paket": "ST-Line / Vignale",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "DPF tıkanması / AdBlue sensör arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%65",
+              "cozum": "Filtre temizliği + sensör değişimi",
+              "maliyet": "8.000-15.000 TL"
+          },
+          {
+              "sorun": "Akü boşalma / start-stop hatası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "AGM akü değişimi + yazılım",
+              "maliyet": "5.000-10.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Ford",
+      "model": "Transit Custom",
+      "kasa_tipi": "Panelvan / Combi",
+      "motor": "2.0 EcoBlue (105/130/170 HP)",
+      "paket": "Trend / Titanium",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Enjektör arızası / çekiş kaybı",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Enjektör seti değişimi (kronik, 4 adet önerilir)",
+              "maliyet": "20.000-35.000 TL"
+          },
+          {
+              "sorun": "Piston delinmesi / motor revizyonu",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Motor bloğu değişimi (yüksek km'de)",
+              "maliyet": "25.000-45.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Ford",
+      "model": "Transit",
+      "kasa_tipi": "Minibüs / Panelvan",
+      "motor": "2.0 EcoBlue (105/130/170 HP)",
+      "paket": "Trend / Titanium",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Turbo arızası / EGR tıkanması",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Turbo + valf revizyonu",
+              "maliyet": "15.000-25.000 TL"
+          },
+          {
+              "sorun": "Mazot filtresi donma / soğukta çalışmama",
+              "kronik_mi": true,
+              "etkilenme_orani": "%45",
+              "cozum": "Filtre değişimi + antifrizli yakıt",
+              "maliyet": "3.000-6.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Ford",
+      "model": "Tourneo Custom",
+      "kasa_tipi": "Minivan",
+      "motor": "2.0 EcoBlue (105/130/170 HP)",
+      "paket": "Titanium / Sport",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Yağ basıncı düşmesi / motor lambası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Yağ pompası + sensör değişimi",
+              "maliyet": "10.000-18.000 TL"
+          },
+          {
+              "sorun": "Kapı kaydırma mekanizması arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%40",
+              "cozum": "Ray + motor revizyonu",
+              "maliyet": "12.000-20.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Ford",
+      "model": "Tourneo Courier",
+      "kasa_tipi": "Combi / Cargo",
+      "motor": "1.5 EcoBlue (100/120 HP)",
+      "paket": "Trend / Titanium",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Partikül filtresi tıkanması",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Temizlik + forced regen (şehir içi rutin)",
+              "maliyet": "5.000-10.000 TL"
+          },
+          {
+              "sorun": "Yazılım hataları / yokuş kalkış arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "OTA güncellemesi + sensör kalibrasyonu",
+              "maliyet": "Ücretsiz-5.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Ford",
+      "model": "Explorer",
+      "kasa_tipi": "SUV",
+      "motor": "3.0 EcoBoost (300 HP) Hibrit",
+      "paket": "Platinum / ST-Line",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Zamanlama zinciri gerilmesi",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Zincir + gergi değişimi",
+              "maliyet": "20.000-35.000 TL"
+          },
+          {
+              "sorun": "Şanzıman geçiş gecikmesi",
+              "kronik_mi": true,
+              "etkilenme_orani": "%45",
+              "cozum": "Yazılım + yağ değişimi",
+              "maliyet": "10.000-20.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Ford",
+      "model": "Mustang Mach-E",
+      "kasa_tipi": "SUV Elektrik",
+      "motor": "72-91 kWh (269/480 HP)",
+      "paket": "Select / Premium / GT",
+      "yil_araligi": "2021-2025",
+      "sorunlar": [
+          {
+              "sorun": "Kapı kilidi yazılımsal arızası / kilitlenme",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Yazılım güncellemesi (serviste OTA dışı)",
+              "maliyet": "Ücretsiz"
+          },
+          {
+              "sorun": "Şarj kesintisi / batarya ısınma",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Soğutma sistemi revizyonu + BMS güncellemesi",
+              "maliyet": "8.000-15.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Dacia",
+      "model": "Sandero",
+      "kasa_tipi": "Hatchback",
+      "motor": "1.0 TCe (90/100 HP)",
+      "paket": "Essential / Expression",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Rölanti titreme / motor stop etme",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Boğaz kelebeği + hava akış sensörü temizliği/yazılım güncellemesi",
+              "maliyet": "3.000-7.000 TL"
+          },
+          {
+              "sorun": "Turbo sesi / cızırtı (hızlanmada)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Turbo hortum + kelepçe revizyonu",
+              "maliyet": "5.000-10.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Dacia",
+      "model": "Sandero",
+      "kasa_tipi": "Hatchback",
+      "motor": "1.0 TCe (90/100 HP)",
+      "paket": "Stepway / Extreme",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Kalkış/geri vites titreme (Easy-R şanzıman)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%65",
+              "cozum": "Debriyaj baskı balata + volan seti değişimi (garanti kapsamında)",
+              "maliyet": "Ücretsiz-15.000 TL"
+          },
+          {
+              "sorun": "Multimedya ekran donması / Bluetooth kopma",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Yazılım OTA güncellemesi",
+              "maliyet": "Ücretsiz"
+          }
+      ]
+  },
+  {
+      "marka": "Dacia",
+      "model": "Sandero",
+      "kasa_tipi": "Hatchback",
+      "motor": "1.5 Blue dCi (95/115 HP)",
+      "paket": "Tüm paketler",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "DPF tıkanması / EGR valfi birikimi",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Temizlik + forced regeneration (şehir içi rutin bakım)",
+              "maliyet": "4.000-9.000 TL"
+          },
+          {
+              "sorun": "AdBlue sensörü arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Sensör + depo değişimi",
+              "maliyet": "8.000-14.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Dacia",
+      "model": "Duster",
+      "kasa_tipi": "SUV",
+      "motor": "1.0 TCe (90/100 HP) ECO-G LPG",
+      "paket": "Essential / Comfort",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Enjektör arızası / LPG geçiş sorunu",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Enjektör seti + ECU kalibrasyonu",
+              "maliyet": "10.000-18.000 TL"
+          },
+          {
+              "sorun": "Turbo sesi / güç kaybı",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Turbo hortum + aktüatör ayarı",
+              "maliyet": "6.000-12.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Dacia",
+      "model": "Duster",
+      "kasa_tipi": "SUV",
+      "motor": "1.3 TCe (150 HP)",
+      "paket": "Prestige / Extreme",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Şanzıman titreme / vites gecikmesi (EDC)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%65",
+              "cozum": "Mekatronik revizyonu + yazılım güncellemesi",
+              "maliyet": "15.000-25.000 TL"
+          },
+          {
+              "sorun": "Kapı içlerinden pas / boya kabarma",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Boya revizyonu (garanti dışı iyi niyet indirimi)",
+              "maliyet": "5.000-10.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Dacia",
+      "model": "Duster",
+      "kasa_tipi": "SUV",
+      "motor": "1.5 Blue dCi (115 HP)",
+      "paket": "Tüm paketler",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Egzoz emisyon / motor lambası (kaptör arızası)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Isı + gaz pedalı sensörü değişimi",
+              "maliyet": "7.000-12.000 TL"
+          },
+          {
+              "sorun": "Klima boru gevşekliği / ses",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Kelepçe + izolasyon uygulaması",
+              "maliyet": "2.000-5.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Dacia",
+      "model": "Jogger",
+      "kasa_tipi": "MPV",
+      "motor": "1.0 TCe (110 HP)",
+      "paket": "Essential / Expression",
+      "yil_araligi": "2022-2025",
+      "sorunlar": [
+          {
+              "sorun": "Debriyaj erken aşınma / titreme (manuel)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Baskı balata seti değişimi",
+              "maliyet": "8.000-14.000 TL"
+          },
+          {
+              "sorun": "Silecek kolu arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Kolu + motor revizyonu (garanti)",
+              "maliyet": "Ücretsiz-6.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Dacia",
+      "model": "Jogger",
+      "kasa_tipi": "MPV",
+      "motor": "1.0 TCe (110 HP) Hibrit",
+      "paket": "Extreme / Journey",
+      "yil_araligi": "2023-2025",
+      "sorunlar": [
+          {
+              "sorun": "Rölanti titreme / motor performans düşüşü",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Yazılım kalibrasyonu + enjektör temizliği",
+              "maliyet": "4.000-8.000 TL"
+          },
+          {
+              "sorun": "Ekran donması / multimedya arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%45",
+              "cozum": "OTA güncellemesi",
+              "maliyet": "Ücretsiz"
+          }
+      ]
+  },
+  {
+      "marka": "Dacia",
+      "model": "Spring",
+      "kasa_tipi": "Hatchback Elektrik",
+      "motor": "26.8 kWh (45 HP)",
+      "paket": "Essential / Expression",
+      "yil_araligi": "2021-2025",
+      "sorunlar": [
+          {
+              "sorun": "Şarj kesintisi / batarya ısınma",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Yazılım güncellemesi + soğutma kontrolü",
+              "maliyet": "Ücretsiz-10.000 TL"
+          },
+          {
+              "sorun": "Direksiyon sertleşme (soğukta)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%45",
+              "cozum": "EPS kalibrasyonu",
+              "maliyet": "3.000-6.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Dacia",
+      "model": "Logan",
+      "kasa_tipi": "Sedan",
+      "motor": "1.0 SCe (65 HP)",
+      "paket": "Essential / Comfort",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Teyp ekranı silikleşme / donma (sıcakta)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Modül değişimi (kronik, iyi niyet indirimi)",
+              "maliyet": "5.000-9.000 TL"
+          },
+          {
+              "sorun": "Direksiyon soyulması / iç trim aşınması",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Döşeme revizyonu",
+              "maliyet": "2.000-5.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Dacia",
+      "model": "Logan",
+      "kasa_tipi": "Sedan / MCV",
+      "motor": "1.5 Blue dCi (95 HP)",
+      "paket": "Laureate / Prestige",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Yakıt sistemi / enjektör tıkanması",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Enjektör temizliği + filtre değişimi",
+              "maliyet": "6.000-12.000 TL"
+          },
+          {
+              "sorun": "Elektrik arızası (far/korna)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%45",
+              "cozum": "Sigorta + kablo revizyonu",
+              "maliyet": "3.000-7.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Land Rover",
+      "model": "Discovery Sport",
+      "kasa_tipi": "SUV",
+      "motor": "2.0 Ingenium Dizel (150/180/204 HP)",
+      "paket": "S / SE / HSE / R-Dynamic",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Zamanlama zinciri gerilmesi / yağ pompası arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%70",
+              "cozum": "Zincir + gergi + yağ pompası komple değişim (2022 sonrası revize parça)",
+              "maliyet": "55.000-90.000 TL"
+          },
+          {
+              "sorun": "AdBlue depo + pompa arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%65",
+              "cozum": "Depo komple değişim (servis kampanyası var)",
+              "maliyet": "35.000-60.000 TL"
+          },
+          {
+              "sorun": "Hava süspansiyon kompresör arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Kompresör + valf bloğu değişimi",
+              "maliyet": "40.000-70.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Land Rover",
+      "model": "Discovery Sport",
+      "kasa_tipi": "SUV",
+      "motor": "2.0 Ingenium Benzin (200/249 HP) P200/P250",
+      "paket": "Tüm paketler",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Triger zinciri + gergi aşınması",
+              "kronik_mi": true,
+              "etkilenme_orani": "%75",
+              "cozum": "Tam zincir seti değişimi (2023+ revize)",
+              "maliyet": "60.000-100.000 TL"
+          },
+          {
+              "sorun": "Turbo arızası / yağ kaçağı",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Turbo komple değişim",
+              "maliyet": "70.000-110.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Land Rover",
+      "model": "Range Rover Evoque",
+      "kasa_tipi": "SUV",
+      "motor": "2.0 Ingenium Dizel (150/180/204 HP)",
+      "paket": "S / SE / HSE / R-Dynamic",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Zincir seti + yağ pompası kroniği",
+              "kronik_mi": true,
+              "etkilenme_orani": "%70",
+              "cozum": "Tam revizyon (2023 sonrası yeni nesil zincir)",
+              "maliyet": "60.000-95.000 TL"
+          },
+          {
+              "sorun": "Elektronik park freni (EPB) arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Aktüatör + modül değişimi",
+              "maliyet": "35.000-55.000 TL"
+          },
+          {
+              "sorun": "Panoramik cam su sızdırma",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Conta + drenaj temizliği (garanti kapsamında)",
+              "maliyet": "Ücretsiz-25.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Land Rover",
+      "model": "Range Rover Velar",
+      "kasa_tipi": "SUV",
+      "motor": "2.0 Ingenium Dizel (180/240 HP)",
+      "paket": "S / SE / HSE / R-Dynamic",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Zincir + yağ pompası arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%65",
+              "cozum": "Tam zincir revizyonu",
+              "maliyet": "65.000-100.000 TL"
+          },
+          {
+              "sorun": "Hava süspansiyon çökme / kompresör yanması",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Kompresör + hava körükleri değişimi",
+              "maliyet": "50.000-90.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Land Rover",
+      "model": "Range Rover Sport",
+      "kasa_tipi": "SUV",
+      "motor": "3.0 Dizel (249/300/350 HP)",
+      "paket": "SE / HSE / Autobiography",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "AdBlue sistemi komple arıza",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Depo + pompa + NOx sensörü değişimi",
+              "maliyet": "60.000-100.000 TL"
+          },
+          {
+              "sorun": "Hava süspansiyon valf bloğu arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Valf bloğu + yazılım güncellemesi",
+              "maliyet": "45.000-75.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Land Rover",
+      "model": "Defender",
+      "kasa_tipi": "SUV 90/110/130",
+      "motor": "2.0 Dizel (200/240 HP) D200/D250",
+      "paket": "S / X-Dynamic / X",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "AdBlue kristalleşme / pompa arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Depo komple değişim + yazılım",
+              "maliyet": "50.000-85.000 TL"
+          },
+          {
+              "sorun": "Elektronik diferansiyel kilidi arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Aktüatör + modül değişimi",
+              "maliyet": "40.000-70.000 TL"
+          },
+          {
+              "sorun": "Pivi Pro ekran donması / sistem çökmesi",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Yazılım güncellemesi + modül değişimi",
+              "maliyet": "Ücretsiz-30.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Land Rover",
+      "model": "Defender",
+      "kasa_tipi": "SUV 90/110",
+      "motor": "3.0 Benzin (400 HP) P400",
+      "paket": "X / V8",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Triger zinciri + gergi aşınması",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Tam zincir seti değişimi",
+              "maliyet": "70.000-110.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Land Rover",
+      "model": "Range Rover",
+      "kasa_tipi": "SUV (L460)",
+      "motor": "3.0 Dizel (300/350 HP) D300/D350",
+      "paket": "SE / HSE / Autobiography",
+      "yil_araligi": "2022-2025",
+      "sorunlar": [
+          {
+              "sorun": "Hava süspansiyon yazılım / sensör arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Yazılım + yükseklik sensörü değişimi",
+              "maliyet": "40.000-80.000 TL"
+          },
+          {
+              "sorun": "48V mild hybrid batarya arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "DC/DC konvertör + batarya değişimi",
+              "maliyet": "80.000-130.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Chery",
+      "model": "Tiggo 7 Pro",
+      "kasa_tipi": "SUV",
+      "motor": "1.6T GDI (197 HP)",
+      "paket": "Luxury / Executive / Premium",
+      "yil_araligi": "2023-2025",
+      "sorunlar": [
+          {
+              "sorun": "7DCT şanzıman titreme / vites geçiş gecikmesi",
+              "kronik_mi": true,
+              "etkilenme_orani": "%70",
+              "cozum": "Yazılım güncellemesi + kavrama seti değişimi (2024 Ekim sonrası revize kavrama)",
+              "maliyet": "25.000-45.000 TL"
+          },
+          {
+              "sorun": "Direksiyon kutusu tıkırtı / boşluk",
+              "kronik_mi": true,
+              "etkilenme_orani": "%65",
+              "cozum": "Direksiyon kutusu komple değişim (garanti ücretsiz)",
+              "maliyet": "Ücretsiz-35.000 TL"
+          },
+          {
+              "sorun": "Multimedya ekran donması / ses kesilmesi",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "OTA yazılım güncellemesi (serviste zorunlu)",
+              "maliyet": "Ücretsiz"
+          }
+      ]
+  },
+  {
+      "marka": "Chery",
+      "model": "Tiggo 8 Pro",
+      "kasa_tipi": "SUV 7 Koltuk",
+      "motor": "1.6T GDI (197 HP)",
+      "paket": "Luxury / Executive / Premium",
+      "yil_araligi": "2023-2025",
+      "sorunlar": [
+          {
+              "sorun": "DCT şanzıman vuruntu / ısınma (yokuş + yükte)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%75",
+              "cozum": "Kavrama + mekatronik revizyonu + yağ soğutucu ilavesi",
+              "maliyet": "35.000-55.000 TL"
+          },
+          {
+              "sorun": "Panoramik cam fitil su sızdırma",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Conta + drenaj temizliği (garanti kapsamında)",
+              "maliyet": "Ücretsiz-15.000 TL"
+          },
+          {
+              "sorun": "360° kamera bulanıklaşma / arıza",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Kamera modülü değişimi",
+              "maliyet": "15.000-25.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Chery",
+      "model": "Omoda 5",
+      "kasa_tipi": "Crossover",
+      "motor": "1.6T GDI (197 HP)",
+      "paket": "Luxury / Premium",
+      "yil_araligi": "2023-2025",
+      "sorunlar": [
+          {
+              "sorun": "7DCT şanzıman sarsıntı / vites atma gecikmesi",
+              "kronik_mi": true,
+              "etkilenme_orani": "%70",
+              "cozum": "Yazılım + kavrama seti revizyonu",
+              "maliyet": "28.000-48.000 TL"
+          },
+          {
+              "sorun": "Ön süspansiyon takırtı / amortisör sesi",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Amortisör + üst tabla değişimi (garanti ücretsiz)",
+              "maliyet": "Ücretsiz-20.000 TL"
+          },
+          {
+              "sorun": "ADASA frenleme sistemi hayalet uyarı",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Radar sensörü kalibrasyonu + yazılım",
+              "maliyet": "Ücretsiz"
+          }
+      ]
+  },
+  {
+      "marka": "Chery",
+      "model": "FX (Tiggo 4 Pro)",
+      "kasa_tipi": "Crossover",
+      "motor": "1.5T (156 HP) CVT",
+      "paket": "Comfort / Luxury / Premium",
+      "yil_araligi": "2024-2025",
+      "sorunlar": [
+          {
+              "sorun": "CVT şanzıman kayış titremesi / ısınma",
+              "kronik_mi": true,
+              "etkilenme_orani": "%65",
+              "cozum": "Şanzıman yağı + soğutucu temizliği + yazılım",
+              "maliyet": "15.000-30.000 TL"
+          },
+          {
+              "sorun": "Klima kompresör arızası / soğutmama",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Kompresör değişimi (garanti ücretsiz)",
+              "maliyet": "Ücretsiz-18.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Chery",
+      "model": "Tiggo 7 Pro Max",
+      "kasa_tipi": "SUV AWD",
+      "motor": "1.6T GDI (197 HP) 7DCT",
+      "paket": "Premium AWD",
+      "yil_araligi": "2024-2025",
+      "sorunlar": [
+          {
+              "sorun": "4x4 sistem arızası / tork dağıtamama",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Arka aks elektronik aktüatör değişimi",
+              "maliyet": "40.000-65.000 TL"
+          },
+          {
+              "sorun": "Şanzıman aşırı ısınma / koruma moduna geçme",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Ek soğutucu kiti + yazılım güncellemesi",
+              "maliyet": "20.000-35.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Honda",
+      "model": "City",
+      "kasa_tipi": "Sedan",
+      "motor": "1.5 i-VTEC (121 HP)",
+      "paket": "Elegance / Executive",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "CVT şanzıman titreme / ısınma (dur-kalkta)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%65",
+              "cozum": "CVT yağı değişimi + yazılım güncellemesi (her 40 bin km’de önerilir)",
+              "maliyet": "8.000-15.000 TL"
+          },
+          {
+              "sorun": "Klima kompresör arızası / soğutmama",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Kompresör değişimi (garanti genellikle karşılıyor)",
+              "maliyet": "Ücretsiz-18.000 TL"
+          },
+          {
+              "sorun": "Ön süspansiyon takırtı / rot başı aşınması",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Rot kolu + rot başı değişimi",
+              "maliyet": "6.000-12.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Honda",
+      "model": "Civic",
+      "kasa_tipi": "Sedan",
+      "motor": "1.5 Turbo VTEC (182 HP)",
+      "paket": "Elegance / Executive / RS",
+      "yil_araligi": "2021-2025",
+      "sorunlar": [
+          {
+              "sorun": "Yağ eksiltme / segman aşınması (2021-2023 modeller)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Piston-segman revizyonu (2023 sonu revize motor, garanti ücretsiz)",
+              "maliyet": "Ücretsiz-35.000 TL"
+          },
+          {
+              "sorun": "CVT şanzıman vuruntu / gecikmeli geçiş",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Yazılım + tork konvertör kontrolü + yağ değişimi",
+              "maliyet": "12.000-25.000 TL"
+          },
+          {
+              "sorun": "Multimedya ekran donması / Android Auto kopması",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "OTA yazılım güncellemesi",
+              "maliyet": "Ücretsiz"
+          }
+      ]
+  },
+  {
+      "marka": "Honda",
+      "model": "Civic",
+      "kasa_tipi": "Hatchback",
+      "motor": "1.0 Turbo (129 HP) / 1.5 Turbo (182 HP)",
+      "paket": "Tüm paketler",
+      "yil_araligi": "2020-2023",
+      "sorunlar": [
+          {
+              "sorun": "Turbo yağ kaçağı / conta arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Turbo contaları + hortum değişimi",
+              "maliyet": "15.000-28.000 TL"
+          },
+          {
+              "sorun": "Debriyaj erken aşınma (manuel)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Baskı-balata seti değişimi",
+              "maliyet": "10.000-18.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Honda",
+      "model": "HR-V",
+      "kasa_tipi": "Crossover",
+      "motor": "1.5 i-VTEC Hibrit (131 HP)",
+      "paket": "Elegance / Advance / Style",
+      "yil_araligi": "2022-2025",
+      "sorunlar": [
+          {
+              "sorun": "e-CVT şanzıman ses / titreme (yokuşta)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Yazılım güncellemesi + motor kulakları kontrolü",
+              "maliyet": "Ücretsiz-10.000 TL"
+          },
+          {
+              "sorun": "12V akü boşalma / araç kilitlenme",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Akü değişimi + DC/DC konvertör kontrolü",
+              "maliyet": "6.000-12.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Honda",
+      "model": "CR-V",
+      "kasa_tipi": "SUV",
+      "motor": "1.5 Turbo (193 HP)",
+      "paket": "Elegance / Executive",
+      "yil_araligi": "2020-2023",
+      "sorunlar": [
+          {
+              "sorun": "Yağ eksiltme kroniği (1.5T motor)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%65",
+              "cozum": "Segman + piston revizyonu (garanti genellikle karşılıyor)",
+              "maliyet": "Ücretsiz-40.000 TL"
+          },
+          {
+              "sorun": "CVT şanzıman ısınma / kayma",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Yağ değişimi + yazılım + soğutucu temizliği",
+              "maliyet": "15.000-30.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Honda",
+      "model": "CR-V",
+      "kasa_tipi": "SUV",
+      "motor": "2.0 i-MMD Hibrit (184 HP)",
+      "paket": "Elegance / Executive / Lifestyle",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Hibrit sistem ses / titreme (EV-Engine geçişte)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Yazılım güncellemesi + motor takozları",
+              "maliyet": "Ücretsiz-12.000 TL"
+          },
+          {
+              "sorun": "Panoramik cam fitil su sızdırma",
+              "kronik_mi": true,
+              "etkilenme_orani": "%45",
+              "cozum": "Drenaj temizliği + ekstra conta",
+              "maliyet": "5.000-10.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Honda",
+      "model": "Accord",
+      "kasa_tipi": "Sedan",
+      "motor": "1.5 Turbo (192 HP)",
+      "paket": "Elegance / Executive",
+      "yil_araligi": "2020-2023",
+      "sorunlar": [
+          {
+              "sorun": "Yağ eksiltme (1.5T motor)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Piston-segman değişimi (garanti kapsamında)",
+              "maliyet": "Ücretsiz-38.000 TL"
+          },
+          {
+              "sorun": "Radar sensörü arızası / ACC iptal",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Radar kalibrasyonu + modül değişimi",
+              "maliyet": "10.000-20.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Jeep",
+      "model": "Renegade",
+      "kasa_tipi": "SUV",
+      "motor": "1.0 T3 (120 HP) / 1.3 T4 (150/180 HP)",
+      "paket": "Longitude / Limited / S / Trailhawk",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Yağ eksiltme / segman aşınması (özellikle 1.3 T4)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%65",
+              "cozum": "Piston-segman revizyonu (2023 sonrası revize motor, garanti ücretsiz)",
+              "maliyet": "Ücretsiz-40.000 TL"
+          },
+          {
+              "sorun": "9 ileri otomatik şanzıman sarsıntı / mekatronik arıza",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Yazılım + mekatronik tamiri (ZF 9HP kroniği)",
+              "maliyet": "25.000-45.000 TL"
+          },
+          {
+              "sorun": "Start-stop akü erken bitme",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "AGM akü değişimi + yazılım güncellemesi",
+              "maliyet": "8.000-15.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Jeep",
+      "model": "Renegade",
+      "kasa_tipi": "SUV",
+      "motor": "1.6 MultiJet II (120/130 HP) / 2.0 MultiJet (140/170 HP)",
+      "paket": "Tüm paketler",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "AdBlue sistemi arızası / kristalleşme",
+              "kronik_mi": true,
+              "etkilenme_orani": "%70",
+              "cozum": "Depo + pompa komple değişim (geri çağırma var)",
+              "maliyet": "Ücretsiz-35.000 TL"
+          },
+          {
+              "sorun": "DPF tıkanması / EGR valfi karbon birikimi",
+              "kronik_mi": true,
+              "etkilenme_orani": "%65",
+              "cozum": "Temizlik + forced regen + yazılım",
+              "maliyet": "6.000-14.000 TL"
+          },
+          {
+              "sorun": "6 ileri DCT (çift kavramalı) kavrama aşınması",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Kavrama seti + volan değişimi",
+              "maliyet": "30.000-50.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Jeep",
+      "model": "Compass",
+      "kasa_tipi": "SUV",
+      "motor": "1.3 T4 (150/180 HP)",
+      "paket": "Longitude / Limited / S / Trailhawk",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Yağ yakma / segman kroniği (1.3 GSE motor)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%70",
+              "cozum": "Piston-segman revizyonu (2024 sonrası revize parça, garanti ücretsiz)",
+              "maliyet": "Ücretsiz-45.000 TL"
+          },
+          {
+              "sorun": "9HP otomatik şanzıman vuruntu / gecikme",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Yazılım + mekatronik tamiri",
+              "maliyet": "28.000-48.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Jeep",
+      "model": "Compass",
+      "kasa_tipi": "SUV",
+      "motor": "2.0 MultiJet II (140/170 HP)",
+      "paket": "Tüm paketler",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "AdBlue depo + sensör komple arıza",
+              "kronik_mi": true,
+              "etkilenme_orani": "%75",
+              "cozum": "Depo değişimi (geri çağırma kampanyası)",
+              "maliyet": "Ücretsiz-38.000 TL"
+          },
+          {
+              "sorun": "Swirl valfleri kırılması / motor arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Emme manifoldu komple değişim",
+              "maliyet": "25.000-40.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Jeep",
+      "model": "Wrangler",
+      "kasa_tipi": "SUV 2/4 kapı",
+      "motor": "2.0 Turbo (272 HP)",
+      "paket": "Sahara / Rubicon / 80th Anniversary",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "8 ileri ZF şanzıman ısınma / vites geçiş sarsıntısı",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Yazılım + ek soğutucu kiti + yağ değişimi",
+              "maliyet": "20.000-35.000 TL"
+          },
+          {
+              "sorun": "Direksiyon kutusu sızıntı / boşluk",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Direksiyon kutusu komple değişim",
+              "maliyet": "40.000-65.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Jeep",
+      "model": "Wrangler 4xe",
+      "kasa_tipi": "SUV PHEV",
+      "motor": "2.0 Turbo + Elektrik (380 HP)",
+      "paket": "Sahara 4xe / Rubicon 4xe",
+      "yil_araligi": "2021-2025",
+      "sorunlar": [
+          {
+              "sorun": "Yüksek voltaj batarya soğutma pompası arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Pompa + yazılım güncellemesi",
+              "maliyet": "Ücretsiz-50.000 TL"
+          },
+          {
+              "sorun": "Şarj portu kapak motoru arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Kapak mekanizması değişimi",
+              "maliyet": "15.000-25.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Jeep",
+      "model": "Grand Cherokee",
+      "kasa_tipi": "SUV (WL)",
+      "motor": "2.0 Turbo 4xe (380 HP)",
+      "paket": "Limited / Summit / Trailhawk",
+      "yil_araligi": "2022-2025",
+      "sorunlar": [
+          {
+              "sorun": "Batarya soğutma sistemi / şarj kesintisi",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Yazılım + pompa değişimi (geri çağırma var)",
+              "maliyet": "Ücretsiz-60.000 TL"
+          },
+          {
+              "sorun": "Hava süspansiyon kompresör arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Quadra-Lift kompresör değişimi",
+              "maliyet": "50.000-80.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Togg",
+      "model": "T10X",
+      "kasa_tipi": "SUV Elektrik",
+      "motor": "52.4 kWh / 88.5 kWh Batarya (218 HP RWD / 435 HP AWD)",
+      "paket": "Standard Range / Long Range / V1 / V2",
+      "yil_araligi": "2023-2025",
+      "sorunlar": [
+          {
+              "sorun": "Yazılım hataları / ekran donması ve dil geçişi (İngilizce-Türkçe)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%70",
+              "cozum": "OTA yazılım güncellemesi (1.7.0 ve sonrası revizyonlar, serviste hard reset).",
+              "maliyet": "Ücretsiz"
+          },
+          {
+              "sorun": "Şarj sistemi arızası / enerji hatası ve kesinti",
+              "kronik_mi": true,
+              "etkilenme_orani": "%65",
+              "cozum": "Batarya modülü kontrolü + yazılım kalibrasyonu (garanti kapsamında değişim).",
+              "maliyet": "Ücretsiz-50.000 TL"
+          },
+          {
+              "sorun": "12V akü boşalma / araç kilitlenme ve çalışmama",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Akü değişimi + BMS optimizasyonu (kış aylarında sık).",
+              "maliyet": "8.000-15.000 TL"
+          },
+          {
+              "sorun": "Yol ortasında ani arıza / motor güç kaybı",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Yüksek voltaj sistemi revizyonu + servis çekici (V1 modellerde yaygın).",
+              "maliyet": "Ücretsiz (garanti)"
+          },
+          {
+              "sorun": "Sensör ve kamera hataları (kör nokta / arka kamera / TPMS)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Kalibrasyon + modül değişimi (yazılım güncellemesiyle kısmen çözülür).",
+              "maliyet": "Ücretsiz-20.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Togg",
+      "model": "T10F",
+      "kasa_tipi": "Sedan Elektrik",
+      "motor": "52.4 kWh / 88.5 kWh Batarya (218 HP RWD / 435 HP AWD)",
+      "paket": "Standard Range / Long Range",
+      "yil_araligi": "2025",
+      "sorunlar": [
+          {
+              "sorun": "Yazılım uyumsuzluğu / ekran ve bağlantı sorunları",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "OTA güncellemesi (TruOS 2.0 revizyonu).",
+              "maliyet": "Ücretsiz"
+          },
+          {
+              "sorun": "Şarj ve batarya ısınma / erken menzil kaybı",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Soğutma sistemi kontrolü + yazılım (erken üretimlerde).",
+              "maliyet": "Ücretsiz-30.000 TL"
+          },
+          {
+              "sorun": "Dijital anahtar bağlantı kopması (Bluetooth)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Uygulama reset + yeniden eşleştirme (Android odaklı).",
+              "maliyet": "Ücretsiz"
+          }
+      ]
+  },
+  {
+      "marka": "MG",
+      "model": "ZS",
+      "kasa_tipi": "Crossover",
+      "motor": "1.5 (106/114 HP) / 1.0T (111 HP)",
+      "paket": "Comfort / Luxury",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Otomatik şanzıman (4AT/6AT) vuruntu / gecikmeli vites",
+              "kronik_mi": true,
+              "etkilenme_orani": "%65",
+              "cozum": "Yazılım güncellemesi + şanzıman yağı değişimi",
+              "maliyet": "8.000-15.000 TL"
+          },
+          {
+              "sorun": "Direksiyon kutusu tıkırtı / boşluk",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Direksiyon kutusu komple değişim (garanti ücretsiz)",
+              "maliyet": "Ücretsiz-20.000 TL"
+          },
+          {
+              "sorun": "Multimedya ekran donması / geri görüş kamerası kaybolması",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "OTA yazılım + ekran modülü reset",
+              "maliyet": "Ücretsiz"
+          }
+      ]
+  },
+  {
+      "marka": "MG",
+      "model": "ZS EV",
+      "kasa_tipi": "Crossover Elektrik",
+      "motor": "44.5 kWh / 51.1 kWh (156-176 HP)",
+      "paket": "Comfort / Luxury",
+      "yil_araligi": "2021-2025",
+      "sorunlar": [
+          {
+              "sorun": "12V akü boşalma / araç kilitlenme",
+              "kronik_mi": true,
+              "etkilenme_orani": "%70",
+              "cozum": "Akü değişimi + DC/DC konvertör yazılımı",
+              "maliyet": "6.000-12.000 TL"
+          },
+          {
+              "sorun": "Hızlı şarj kesintisi / ısınma",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Batarya soğutma sistemi temizliği + yazılım güncellemesi",
+              "maliyet": "Ücretsiz-25.000 TL"
+          },
+          {
+              "sorun": "Isı pompası çalışmama / kışın menzil düşüşü",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Isı pompası yazılımı + sensör kalibrasyonu",
+              "maliyet": "Ücretsiz"
+          }
+      ]
+  },
+  {
+      "marka": "MG",
+      "model": "MG4",
+      "kasa_tipi": "Hatchback Elektrik",
+      "motor": "51 kWh / 64 kWh (170-204-435 HP)",
+      "paket": "Comfort / Luxury / Trophy / X-Power",
+      "yil_araligi": "2023-2025",
+      "sorunlar": [
+          {
+              "sorun": "LKA (şerit takip) hayalet uyarı / direksiyon çekme",
+              "kronik_mi": true,
+              "etkilenme_orani": "%65",
+              "cozum": "Yazılım güncellemesi (1.4.2 ve sonrası çözdü)",
+              "maliyet": "Ücretsiz"
+          },
+          {
+              "sorun": "Arka fren kaliper sıkma / tek teker çekme",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Arka kaliper temizliği + yazılım (garanti kapsamında)",
+              "maliyet": "Ücretsiz"
+          },
+          {
+              "sorun": "One-pedal modu ani kesme / frenleme",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Yazılım kalibrasyonu",
+              "maliyet": "Ücretsiz"
+          }
+      ]
+  },
+  {
+      "marka": "MG",
+      "model": "HS / EHS PHEV",
+      "kasa_tipi": "SUV",
+      "motor": "1.5T + Elektrik (258-282 HP)",
+      "paket": "Comfort / Luxury / Trophy",
+      "yil_araligi": "2022-2025",
+      "sorunlar": [
+          {
+              "sorun": "10 ileri EDU şanzıman vuruntu / titreme",
+              "kronik_mi": true,
+              "etkilenme_orani": "%70",
+              "cozum": "Yazılım + kavrama seti revizyonu",
+              "maliyet": "30.000-50.000 TL"
+          },
+          {
+              "sorun": "Batarya şarj olmama / hibrit modda kalma",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Şarj kontrol modülü değişimi (garanti)",
+              "maliyet": "Ücretsiz-40.000 TL"
+          },
+          {
+              "sorun": "Panoramik cam fitil su sızdırma",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Drenaj temizliği + ekstra conta",
+              "maliyet": "Ücretsiz-10.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "MG",
+      "model": "Marvel R",
+      "kasa_tipi": "SUV Elektrik AWD",
+      "motor": "70 kWh (288 HP)",
+      "paket": "Comfort / Luxury / Performance",
+      "yil_araligi": "2022-2025",
+      "sorunlar": [
+          {
+              "sorun": "iBooster fren sistemi sertleşme / pedal boşalma",
+              "kronik_mi": true,
+              "etkilenme_orani": "%65",
+              "cozum": "iBooster pompa değişimi + yazılım",
+              "maliyet": "Ücretsiz-35.000 TL"
+          },
+          {
+              "sorun": "V2L çalışmama / priz arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Inverter modülü değişimi",
+              "maliyet": "Ücretsiz-25.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Mazda",
+      "model": "CX-5",
+      "kasa_tipi": "SUV",
+      "motor": "2.0 Skyactiv-G (165 HP) / 2.5 Skyactiv-G (194 HP)",
+      "paket": "Joy / Elegance / Exclusive",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Aşırı yağ tüketimi / silindir kapağı çatlaması (2.5L CD'li motorlar)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Motor revizyonu veya değişimi (garanti kapsamında, 2023+ revize motor)",
+              "maliyet": "Ücretsiz-80.000 TL"
+          },
+          {
+              "sorun": "Hızlı fren balata ve disk aşınması",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Balata ve disk seti değişimi (her 20-30 bin km'de rutin)",
+              "maliyet": "10.000-20.000 TL"
+          },
+          {
+              "sorun": "Arka lastik kupping / titreşim (20 bin km sonrası)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Lastik rotasyonu + balans ayarı (servis bülteni var)",
+              "maliyet": "2.000-5.000 TL"
+          },
+          {
+              "sorun": "Elektrik sistemi arızası / akü boşalması",
+              "kronik_mi": true,
+              "etkilenme_orani": "%45",
+              "cozum": "Elektrik tesisatı kontrolü + akü değişimi",
+              "maliyet": "5.000-10.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Mazda",
+      "model": "CX-5",
+      "kasa_tipi": "SUV",
+      "motor": "2.2 Skyactiv-D (150/184 HP)",
+      "paket": "Tüm paketler",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "DPF tıkanması / EGR valfi birikimi",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Temizlik + forced regeneration (şehir içi kullanımda rutin)",
+              "maliyet": "5.000-12.000 TL"
+          },
+          {
+              "sorun": "Turbo arızası / egzoz sorunları",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Turbo değişimi + emisyon sistemi revizyonu",
+              "maliyet": "15.000-25.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Mazda",
+      "model": "Mazda3",
+      "kasa_tipi": "Hatchback / Sedan",
+      "motor": "2.0 Skyactiv-G (150/165 HP)",
+      "paket": "Style / Exclusive / Homura",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Ön park sensörü arızası / hata vermesi",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Sensör değişimi + yazılım kalibrasyonu (serviste tespit edilemeyebilir)",
+              "maliyet": "5.000-10.000 TL"
+          },
+          {
+              "sorun": "Otomatik şanzıman vites geçiş sorunu / inleme sesi",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Yazılım güncellemesi + yağ değişimi",
+              "maliyet": "8.000-15.000 TL"
+          },
+          {
+              "sorun": "Multimedya ekran donması / Bluetooth kopma",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "OTA yazılım güncellemesi",
+              "maliyet": "Ücretsiz"
+          }
+      ]
+  },
+  {
+      "marka": "Mitsubishi",
+      "model": "ASX",
+      "kasa_tipi": "SUV",
+      "motor": "1.6 MIVEC (117 HP) / 2.0 MIVEC (150 HP)",
+      "paket": "Motion / Instyle",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Aşırı yağ tüketimi / sızıntı",
+              "kronik_mi": true,
+              "etkilenme_orani": "%65",
+              "cozum": "Yağ pompası + conta revizyonu (düzenli kontrol şart)",
+              "maliyet": "10.000-20.000 TL"
+          },
+          {
+              "sorun": "CVT şanzıman titreme / ısınma",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Şanzıman yağı değişimi + soğutucu kontrolü",
+              "maliyet": "8.000-15.000 TL"
+          },
+          {
+              "sorun": "Motor stalling / rölanti dalgalanması",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Enjektör temizliği + ECU kalibrasyonu",
+              "maliyet": "5.000-10.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Mitsubishi",
+      "model": "ASX",
+      "kasa_tipi": "SUV",
+      "motor": "1.8 DID (150 HP)",
+      "paket": "Tüm paketler",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "DPF tıkanması / AdBlue sensörü arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Filtre temizliği + sensör değişimi",
+              "maliyet": "7.000-14.000 TL"
+          },
+          {
+              "sorun": "Yakıt pompası arızası / güç kaybı",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Pompa değişimi",
+              "maliyet": "10.000-18.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Mitsubishi",
+      "model": "Eclipse Cross",
+      "kasa_tipi": "SUV",
+      "motor": "1.5 TCI (163 HP)",
+      "paket": "Motion / Exceed",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "CVT şanzıman vuruntu / gecikme",
+              "kronik_mi": true,
+              "etkilenme_orani": "%65",
+              "cozum": "Yazılım güncellemesi + yağ değişimi",
+              "maliyet": "10.000-20.000 TL"
+          },
+          {
+              "sorun": "Yağ sızıntısı / turbo sorunları",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Conta + turbo revizyonu",
+              "maliyet": "15.000-25.000 TL"
+          },
+          {
+              "sorun": "Elektriksel arızalar / ekran donması",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Modül değişimi + yazılım",
+              "maliyet": "5.000-12.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Subaru",
+      "model": "Forester",
+      "kasa_tipi": "SUV",
+      "motor": "2.0 Boxer (150 HP) / 2.5 Boxer (169 HP)",
+      "paket": "Dynamic / Premium / Executive",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "CVT şanzıman erken aşınma / titreşim",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Yağ değişimi + basınç sensörü revizyonu (her 60 bin km rutin)",
+              "maliyet": "15.000-30.000 TL"
+          },
+          {
+              "sorun": "Windshield kendiliğinden çatlaması",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Cam değişimi (garanti kapsamında)",
+              "maliyet": "Ücretsiz-10.000 TL"
+          },
+          {
+              "sorun": "EyeSight kamera / sensör arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Kalibrasyon + yazılım güncellemesi",
+              "maliyet": "Ücretsiz-8.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Subaru",
+      "model": "Forester",
+      "kasa_tipi": "SUV",
+      "motor": "2.0 e-Boxer Hibrit (163 HP)",
+      "paket": "Tüm paketler",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Start-stop sistemi arızası / akü boşalması",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Akü + DC/DC konvertör değişimi",
+              "maliyet": "10.000-18.000 TL"
+          },
+          {
+              "sorun": "Hibrit batarya ısınma / menzil kaybı",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Soğutma sistemi revizyonu",
+              "maliyet": "12.000-20.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Subaru",
+      "model": "XV",
+      "kasa_tipi": "Crossover",
+      "motor": "2.0 Boxer (156 HP)",
+      "paket": "Executive / Premium",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Yağ yakma / motor eksiltme (Boxer motor kroniği)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Segman revizyonu (düzenli yağ kontrolü şart)",
+              "maliyet": "15.000-25.000 TL"
+          },
+          {
+              "sorun": "CVT şanzıman titreşim / kayma",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Yağ değişimi + sensör kalibrasyonu",
+              "maliyet": "10.000-20.000 TL"
+          },
+          {
+              "sorun": "Direksiyon simidi soyulması / renk atması",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Simit döşemesi değişimi",
+              "maliyet": "3.000-6.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Suzuki",
+      "model": "Vitara",
+      "kasa_tipi": "SUV",
+      "motor": "1.4 Boosterjet (129 HP) / 1.4 Boosterjet Hibrit (129 HP)",
+      "paket": "GL / GL+ / GLX",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "DPF tıkanması / limp mode (dizel modellerde)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Uzun yol rejenerasyonu + filtre temizliği",
+              "maliyet": "5.000-10.000 TL"
+          },
+          {
+              "sorun": "Debriyaj sertleşme / erken aşınma",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Debriyaj seti değişimi",
+              "maliyet": "8.000-15.000 TL"
+          },
+          {
+              "sorun": "Windshield kolay çatlaması",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Cam değişimi",
+              "maliyet": "4.000-8.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Suzuki",
+      "model": "Vitara",
+      "kasa_tipi": "SUV",
+      "motor": "1.6 VVT (120 HP)",
+      "paket": "Tüm paketler",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Drive belt tension pulley arızası (2011-2015 modeller)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%45",
+              "cozum": "Geri çağırma kapsamında pulley değişimi",
+              "maliyet": "Ücretsiz"
+          },
+          {
+              "sorun": "Low beam far ampulü erken yanması",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Ampul değişimi (yüksek kaliteli LED önerisi)",
+              "maliyet": "1.000-3.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Suzuki",
+      "model": "Swift",
+      "kasa_tipi": "Hatchback",
+      "motor": "1.2 Dualjet Hibrit (83 HP)",
+      "paket": "GL / GLX / GLX+",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Multimedya ekran donması / akü boşalması",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Yazılım güncellemesi + akü değişimi",
+              "maliyet": "Ücretsiz-5.000 TL"
+          },
+          {
+              "sorun": "Rölanti dalgalanması / motor titreme",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Boğaz kelebeği temizliği + ECU kalibrasyonu",
+              "maliyet": "3.000-7.000 TL"
+          },
+          {
+              "sorun": "Park sensörü / kamera arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Sensör değişimi",
+              "maliyet": "4.000-8.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Suzuki",
+      "model": "Swift",
+      "kasa_tipi": "Hatchback",
+      "motor": "1.4 Boosterjet Hibrit (129 HP)",
+      "paket": "Tüm paketler",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Yağ eksiltme / tüketimi",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Segman revizyonu + düzenli kontrol",
+              "maliyet": "10.000-18.000 TL"
+          },
+          {
+              "sorun": "Şanzıman vites geçiş sorunu (otomatik)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Yazılım + yağ değişimi",
+              "maliyet": "6.000-12.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Tesla",
+      "model": "Model 3",
+      "kasa_tipi": "Sedan Elektrik",
+      "motor": "50-82 kWh (225-510 HP)",
+      "paket": "Standard / Long Range / Performance",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "12V akü boşalma / araç kilitlenme",
+              "kronik_mi": true,
+              "etkilenme_orani": "%65",
+              "cozum": "Akü değişimi + yazılım güncellemesi (garanti ücretsiz)",
+              "maliyet": "Ücretsiz-8.000 TL"
+          },
+          {
+              "sorun": "Panel aralıkları / boya kusurları (üretim kalitesi)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Servis revizyonu (garanti kapsamında)",
+              "maliyet": "Ücretsiz"
+          },
+          {
+              "sorun": "Sensör / kamera hataları (Autopilot / TPMS)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Kalibrasyon + OTA güncellemesi",
+              "maliyet": "Ücretsiz"
+          },
+          {
+              "sorun": "Askı / direksiyon arızası (aft-link / control arm)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Parça değişimi (garanti)",
+              "maliyet": "Ücretsiz-20.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Tesla",
+      "model": "Model Y",
+      "kasa_tipi": "SUV Elektrik",
+      "motor": "60-82 kWh (283-510 HP)",
+      "paket": "Standard / Long Range / Performance",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "12V akü boşalma / kilitlenme",
+              "kronik_mi": true,
+              "etkilenme_orani": "%70",
+              "cozum": "Akü + yazılım revizyonu",
+              "maliyet": "Ücretsiz-10.000 TL"
+          },
+          {
+              "sorun": "Üretim kalitesi / panel gap / boya sorunları",
+              "kronik_mi": true,
+              "etkilenme_orani": "%65",
+              "cozum": "Servis düzeltmesi (garanti)",
+              "maliyet": "Ücretsiz"
+          },
+          {
+              "sorun": "Askı rahatsızlığı / gürültü",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Burç / amortisör değişimi",
+              "maliyet": "15.000-25.000 TL"
+          },
+          {
+              "sorun": "Yazılım hataları / ekran donması",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "OTA güncellemesi",
+              "maliyet": "Ücretsiz"
+          }
+      ]
+  },
+  {
+      "marka": "Alfa Romeo",
+      "model": "Giulia",
+      "kasa_tipi": "Sedan",
+      "motor": "2.0 Turbo (200/280 HP) / 2.9 V6 (510 HP Quadrifoglio)",
+      "paket": "Sprint / Veloce / Competizione",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Elektrik sorunları / ECU arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "ECU yazılımı + modül değişimi",
+              "maliyet": "10.000-20.000 TL"
+          },
+          {
+              "sorun": "Yağ sızıntısı / turbo actuator",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Conta + turbo revizyonu",
+              "maliyet": "15.000-30.000 TL"
+          },
+          {
+              "sorun": "Süspansiyon / direksiyon gürültüsü",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Burç + hidrolik kontrolü",
+              "maliyet": "8.000-15.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Alfa Romeo",
+      "model": "Stelvio",
+      "kasa_tipi": "SUV",
+      "motor": "2.0 Turbo (200/280 HP) / 2.9 V6 (510 HP Quadrifoglio)",
+      "paket": "Sprint / Veloce / Competizione",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Elektrik / kablo arızaları (koltuk / bagaj)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%65",
+              "cozum": "Kablo demeti revizyonu",
+              "maliyet": "5.000-12.000 TL"
+          },
+          {
+              "sorun": "Fren / AEB sistemi hatası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Sensör kalibrasyonu + yazılım",
+              "maliyet": "Ücretsiz-10.000 TL"
+          },
+          {
+              "sorun": "Yağ eksiltme / motor sızıntısı",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Conta değişimi",
+              "maliyet": "12.000-25.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Mini",
+      "model": "Cooper",
+      "kasa_tipi": "Hatchback",
+      "motor": "1.5 (136 HP) / 2.0 Turbo (178/231 HP)",
+      "paket": "Classic / Sport / Exclusive",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Yakıt pompası basınç arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Pompa değişimi (10 yıl garanti)",
+              "maliyet": "Ücretsiz-20.000 TL"
+          },
+          {
+              "sorun": "Termostat / soğutma arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Termostat revizyonu",
+              "maliyet": "5.000-10.000 TL"
+          },
+          {
+              "sorun": "Elektrik / ekran donması",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Yazılım güncellemesi",
+              "maliyet": "Ücretsiz"
+          }
+      ]
+  },
+  {
+      "marka": "Mini",
+      "model": "Countryman",
+      "kasa_tipi": "SUV",
+      "motor": "1.5 (136 HP) / 2.0 Turbo (178/231 HP)",
+      "paket": "Classic / Sport / Exclusive",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Yüksek basınç pompası arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%65",
+              "cozum": "Pompa değişimi (garanti)",
+              "maliyet": "Ücretsiz-25.000 TL"
+          },
+          {
+              "sorun": "Şanzıman / vites geçiş sorunu",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Yazılım + mekatronik",
+              "maliyet": "15.000-30.000 TL"
+          },
+          {
+              "sorun": "Soğutma / termostat kroniği",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Sistem revizyonu",
+              "maliyet": "8.000-15.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Volvo",
+      "model": "XC40",
+      "kasa_tipi": "SUV",
+      "motor": "1.5 T3 (163 HP) / 2.0 T4/T5 (197/250 HP) / Recharge PHEV",
+      "paket": "Core / Plus / Ultra",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Akü boşalma / start-stop hatası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Akü değişimi + yazılım",
+              "maliyet": "5.000-12.000 TL"
+          },
+          {
+              "sorun": "Şarj / batarya sorunları (PHEV)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Modül revizyonu (garanti)",
+              "maliyet": "Ücretsiz-20.000 TL"
+          },
+          {
+              "sorun": "Sunroof su sızdırma / kapı kilitlenme",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Conta + drenaj temizliği",
+              "maliyet": "8.000-15.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Volvo",
+      "model": "XC60",
+      "kasa_tipi": "SUV",
+      "motor": "2.0 T5 (250 HP) / B5/B6 Mild Hybrid / Recharge PHEV",
+      "paket": "Core / Plus / Ultimate",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Direksiyon / güç asistanı arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Rack + hidrolik revizyonu",
+              "maliyet": "15.000-30.000 TL"
+          },
+          {
+              "sorun": "AEB fren sistemi hatası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Yazılım güncellemesi (geri çağırma)",
+              "maliyet": "Ücretsiz"
+          },
+          {
+              "sorun": "Motor fan kontrolü / aşırı ısınma",
+              "kronik_mi": true,
+              "etkilenme_orani": "%45",
+              "cozum": "Yazılım + fan değişimi",
+              "maliyet": "10.000-20.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Jaecoo",
+      "model": "J7",
+      "kasa_tipi": "SUV",
+      "motor": "1.6T (147/197 HP)",
+      "paket": "Evolve / Exceed / Ultimate",
+      "yil_araligi": "2025",
+      "sorunlar": [
+          {
+              "sorun": "Şanzıman titreme / vites gecikmesi (DCT)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%70",
+              "cozum": "Yazılım + kavrama revizyonu",
+              "maliyet": "20.000-40.000 TL"
+          },
+          {
+              "sorun": "Süspansiyon / amortisör gürültüsü",
+              "kronik_mi": true,
+              "etkilenme_orani": "%65",
+              "cozum": "Burç + amortisör değişimi",
+              "maliyet": "10.000-20.000 TL"
+          },
+          {
+              "sorun": "Multimedya / ekran donması",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "OTA güncellemesi",
+              "maliyet": "Ücretsiz"
+          },
+          {
+              "sorun": "Parça tedarik gecikmesi / servis bekleme",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Yurt dışı ithal (1-2 ay)",
+              "maliyet": "Değişken"
+          }
+      ]
+  },
+  {
+      "marka": "Audi",
+      "model": "A3 / S3 / RS3",
+      "kasa_tipi": "Sedan / Sportback",
+      "motor": "1.5 TFSI (150 HP) / 2.0 TFSI (190-400 HP)",
+      "paket": "Advanced / S line / Black Edition",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Yağ eksiltme / segman aşınması (EA888 Gen3/Gen4)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%65",
+              "cozum": "Piston-segman revizyonu (2023 sonrası revize motor, garanti ücretsiz)",
+              "maliyet": "Ücretsiz-65.000 TL"
+          },
+          {
+              "sorun": "7 ileri S-tronic (DQ381) mekatronik arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Mekatronik tamiri + yazılım (garanti dışı pahalı)",
+              "maliyet": "35.000-60.000 TL"
+          },
+          {
+              "sorun": "Multimedya MMI ekran donması / siyah ekran",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "MMI modülü değişimi + yazılım güncellemesi",
+              "maliyet": "25.000-45.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Audi",
+      "model": "A4 / A5 / S4 / S5",
+      "kasa_tipi": "Sedan / Avant / Sportback",
+      "motor": "2.0 TFSI (204-265 HP) / 2.0 TDI (163-204 HP)",
+      "paket": "Advanced / S line / Black Edition",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Zamanlama zinciri gerilmesi (2.0 TFSI)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Zincir + gergi seti değişimi",
+              "maliyet": "40.000-70.000 TL"
+          },
+          {
+              "sorun": "AdBlue sistemi arızası (TDI)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%65",
+              "cozum": "Depo + pompa değişimi (geri çağırma var)",
+              "maliyet": "Ücretsiz-50.000 TL"
+          },
+          {
+              "sorun": "Hava süspansiyon kompresör arızası (opsiyonel)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Kompresör + valf bloğu değişimi",
+              "maliyet": "45.000-80.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Audi",
+      "model": "Q5 / SQ5",
+      "kasa_tipi": "SUV",
+      "motor": "2.0 TFSI (265 HP) / 2.0 TDI (204 HP)",
+      "paket": "Advanced / S line",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Termostat / su pompası arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Komple su pompası + termostat değişimi",
+              "maliyet": "25.000-45.000 TL"
+          },
+          {
+              "sorun": "Panoramik cam su sızdırma",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Drenaj temizliği + conta değişimi",
+              "maliyet": "15.000-30.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "BMW",
+      "model": "3 Serisi (G20/G21)",
+      "kasa_tipi": "Sedan / Touring",
+      "motor": "2.0 B48 (184-258 HP) / 2.0 B47 (150-190 HP)",
+      "paket": "Sport Line / Luxury / M Sport",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Zamanlama zinciri gerilmesi (B48 motor)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%65",
+              "cozum": "Zincir + gergi seti değişimi (2023 sonrası revize)",
+              "maliyet": "45.000-75.000 TL"
+          },
+          {
+              "sorun": "8 ileri ZF şanzıman mekatronik arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Mekatronik tamiri + yazılım",
+              "maliyet": "40.000-70.000 TL"
+          },
+          {
+              "sorun": "Valvetronic motor arızası / eksantrik mili sensörü",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Valvetronic motor değişimi",
+              "maliyet": "30.000-55.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "BMW",
+      "model": "5 Serisi (G30/G60)",
+      "kasa_tipi": "Sedan / Touring",
+      "motor": "2.0 B48/B58 / 3.0 B58 (G60)",
+      "paket": "Luxury / M Sport",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "EGR soğutucu sızıntı / yangın riski (geri çağırma)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "EGR soğutucu değişimi (ücretsiz)",
+              "maliyet": "Ücretsiz"
+          },
+          {
+              "sorun": "Direksiyon rack arızası / boşluk",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Direksiyon kutusu değişimi",
+              "maliyet": "50.000-90.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "BMW",
+      "model": "X3 / X4",
+      "kasa_tipi": "SUV",
+      "motor": "2.0 B48 (184-252 HP) / 3.0 B58 (360 HP)",
+      "paket": "xLine / M Sport",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Transfer kutusu (xDrive) arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Aktüatör motoru + yazılım",
+              "maliyet": "35.000-60.000 TL"
+          },
+          {
+              "sorun": "Panoramik cam patlama / çatlaması",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Cam değişimi (garanti kapsamında)",
+              "maliyet": "Ücretsiz-40.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Mercedes",
+      "model": "C Serisi (W206)",
+      "kasa_tipi": "Sedan / Estate",
+      "motor": "1.5 M264 (170-204 HP) Mild Hybrid / 2.0 M254",
+      "paket": "Avantgarde / AMG Line",
+      "yil_araligi": "2021-2025",
+      "sorunlar": [
+          {
+              "sorun": "48V mild hybrid kayış arızası / şarj olmaması",
+              "kronik_mi": true,
+              "etkilenme_orani": "%65",
+              "cozum": "Kayış + gergi değişimi + yazılım",
+              "maliyet": "30.000-55.000 TL"
+          },
+          {
+              "sorun": "MBUX ekran donması / siyah ekran",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Ana ünite değişimi (garanti)",
+              "maliyet": "Ücretsiz-70.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Mercedes",
+      "model": "E Serisi (W213/W214)",
+      "kasa_tipi": "Sedan / Estate",
+      "motor": "2.0 M264 / M254 Mild Hybrid",
+      "paket": "Exclusive / AMG Line",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Kamera / radar sensör arızası (Distronic)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Sensör değişimi + kalibrasyon",
+              "maliyet": "25.000-50.000 TL"
+          },
+          {
+              "sorun": "Hava süspansiyon (Airmatic) çökme",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Kompresör + hava körüğü değişimi",
+              "maliyet": "60.000-110.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Mercedes",
+      "model": "GLC / GLC Coupe",
+      "kasa_tipi": "SUV",
+      "motor": "2.0 M264 (197-258 HP) Mild Hybrid",
+      "paket": "Progressive / AMG Line",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "48V sistem arızası / batarya boşalması",
+              "kronik_mi": true,
+              "etkilenme_orani": "%65",
+              "cozum": "DC/DC konvertör + batarya değişimi",
+              "maliyet": "40.000-75.000 TL"
+          },
+          {
+              "sorun": "Eğimli cam sızıntı / su birikmesi",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Drenaj temizliği + conta değişimi",
+              "maliyet": "15.000-30.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Porsche",
+      "model": "Cayenne",
+      "kasa_tipi": "SUV",
+      "motor": "3.0 V6 Turbo (340 HP) / 4.0 V8 Turbo (460-680 HP)",
+      "paket": "Base / S / GTS / Turbo",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Transfer kutusu arızası (4x4 sistemi)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%60",
+              "cozum": "Aktüatör + yazılım (geri çağırma var)",
+              "maliyet": "Ücretsiz-80.000 TL"
+          },
+          {
+              "sorun": "PDK şanzıman mekatronik arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Mekatronik tamiri + yağ değişimi",
+              "maliyet": "70.000-120.000 TL"
+          },
+          {
+              "sorun": "Soğutma suyu boru sızıntısı (plastik boru)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%50",
+              "cozum": "Alüminyum boru kiti değişimi (servis bülteni)",
+              "maliyet": "40.000-70.000 TL"
+          }
+      ]
+  },
+  {
+      "marka": "Porsche",
+      "model": "Macan",
+      "kasa_tipi": "SUV",
+      "motor": "2.0 Turbo (252-380 HP) / 2.9 V6 Turbo (440 HP)",
+      "paket": "Base / S / GTS",
+      "yil_araligi": "2020-2025",
+      "sorunlar": [
+          {
+              "sorun": "Transfer kutusu arızası (aynı Cayenne)",
+              "kronik_mi": true,
+              "etkilenme_orani": "%65",
+              "cozum": "Aktüatör değişimi (geri çağırma)",
+              "maliyet": "Ücretsiz"
+          },
+          {
+              "sorun": "Katalizör / egzoz valfi arızası",
+              "kronik_mi": true,
+              "etkilenme_orani": "%55",
+              "cozum": "Katalizör değişimi",
+              "maliyet": "80.000-150.000 TL"
+          }
+      ]
+  }
+]
