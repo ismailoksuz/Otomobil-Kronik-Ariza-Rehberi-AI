@@ -42,25 +42,13 @@ Bu projenin temelini oluşturan **kronik arıza veri seti (`data.json`)**, Grok 
 
 ## Kurulum ve Çalıştırma
 
-Projeyi yerel makinenizde hızla ayağa kaldırmak için aşağıdaki adımları izleyin:
-
-### 1. Depoyu Klonlayın
-
-```bash
 git clone [https://github.com/ismailoksuz/Otomobil-Kronik-Ariza-Rehberi-AI.git](https://github.com/ismailoksuz/Otomobil-Kronik-Ariza-Rehberi-AI.git)
 cd Otomobil-Kronik-Ariza-Rehberi-AI
 
- 
-### 2. Sanal Ortam Kurulumu ve Bağımlılıklar
-
-```bash
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 
-### 3. Uygulamayı Başlatın
-
-```bash
 python app.py
 
 Uygulama başlatıldıktan sonra tarayıcınızdan genellikle http://127.0.0.1:5000 adresine giderek arayüze erişebilirsiniz.
